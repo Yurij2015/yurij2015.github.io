@@ -19,7 +19,7 @@
         </div>
       </div>
       <div class="col-md-3 order-md-1">
-        <img src="http://portfolioapi.webstudio.890m.com/images/ava.jpg"
+        <img src="https://stud.vv.si/images/ava.jpg"
              class="bd-placeholder-img rounded-circle" width="140" alt="">
       </div>
     </div>
