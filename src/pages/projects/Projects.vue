@@ -18,7 +18,7 @@
       <tr v-for="project in projects" :key="project.id">
 <!--        <td>{{ project.id }}</td>-->
         <td>{{ project.title }}</td>
-        <td>{{ project.description }}</td>
+        <td v-html='project.description'></td>
         <td><img :src="project.image_preview" width="200" alt=""/></td>
         <td>
           <div class="btn-group mr-2">

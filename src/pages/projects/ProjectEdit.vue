@@ -9,9 +9,10 @@
       <input name="title" id="title" type="text" class="form-control" placeholder="Назва проекту" v-model="data.title">
     </div>
     <div class="mb-3">
-      <label for="description">Опис проекту</label>
-      <input name="description" id="description" type="text" class="form-control" placeholder="Опис проекту"
-             v-model="data.description">
+      <label>Опис проекту</label>
+      <editor v-model="data.description"></editor>
+      <!--      <input name="description" id="description" type="text" class="form-control" placeholder="Опис проекту"-->
+      <!--             v-model="data.description">-->
     </div>
     <div class="mb-3">
       <label for="image_preview">Зображення</label>
@@ -24,7 +25,7 @@
   </form>
   <hr>
   <h5>Додати зображення в галерею проекту</h5>
-<!--    <AddToGallery :project_id="projectId"/>-->
+  <!--    <AddToGallery :project_id="projectId"/>-->
   <AddToGallery/>
   <h4>Галерея проекту</h4>
   <div class="row row-cols-1 row-cols-md-2 g-4">
@@ -42,10 +43,12 @@ import axios from "axios";
 import {useRouter, useRoute} from "vue-router";
 import ImageUpload from "@/components/ImageUpload";
 import AddToGallery from "@/components/AddToGallery";
+import Editor from '@tinymce/tinymce-vue'
 
 export default {
   name: "ProjectEdit",
-  components: {AddToGallery, ImageUpload},
+  components: {AddToGallery, ImageUpload, 'editor': Editor},
+
 
   setup() {
     const router = useRouter();
