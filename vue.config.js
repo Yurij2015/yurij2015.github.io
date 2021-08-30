@@ -1,7 +1,10 @@
-// файл vue.config.js должен быть расположен в корневом каталоге проекта
-
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-        ? '/yurij2015.github.io/'
-        : '/'
+    // chainWebpack: config => {
+    //     config
+    //         .plugin('html')
+    //         .tap(args => {
+    //             args[0].title = 'Портфоліо'
+    //             return args
+    //         })
+    // }
 }
