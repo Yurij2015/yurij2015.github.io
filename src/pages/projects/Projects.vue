@@ -1,6 +1,6 @@
 <template>
   <div class="pt-3 pb-2 mb-3 border-bottom">
-    <router-link to="/project-create" class="btn btn-sm btn-outline-primary">Додати проект</router-link>
+    <router-link to="/project-create" class="btn btn-sm btn-outline-primary disabled" v-show="false">Додати проект</router-link>
   </div>
   <h2>Виконані проекти</h2>
   <div class="table-responsive">
@@ -25,9 +25,9 @@
             <router-link :to="`/project-view/${project.id}`" class="btn btn-sm btn-outline-info">Переглянути
             </router-link>
             <!--            <a href="" class="btn btn-sm btn-outline-warning disabled" hidden>Редагувати</a>-->
-            <router-link :to="`/project-edit/${project.id}`" class="btn btn-sm btn-outline-warning">Редагувати
+            <router-link :to="`/project-edit/${project.id}`" class="btn btn-sm btn-outline-warning" v-show="false">Редагувати
             </router-link>
-            <a href="javascript:void(0)" class="btn btn-sm btn-outline-danger" @click="del(project.id)">Видалити</a>
+            <a href="javascript:void(0)" class="btn btn-sm btn-outline-danger" @click="del(project.id)" v-show="false">Видалити</a>
           </div>
         </td>
       </tr>
