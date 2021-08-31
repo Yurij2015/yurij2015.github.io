@@ -10,7 +10,7 @@
     </div>
     <div class="mb-3">
       <label>Опис проекту</label>
-      <editor v-model="data.description"></editor>
+      <editor v-model="data.description" :init="{height: 300, plugins: ['link']}"></editor>
       <!--      <input name="description" id="description" type="text" class="form-control" placeholder="Опис проекту"-->
       <!--             v-model="data.description">-->
     </div>
@@ -25,8 +25,8 @@
   </form>
   <hr>
   <h5>Додати зображення в галерею проекту</h5>
-  <!--    <AddToGallery :project_id="projectId"/>-->
-  <AddToGallery/>
+  <AddToGallery :projectId="String(Number(data.id))"/>
+  <!--  <AddToGallery/>-->
   <h4>Галерея проекту</h4>
   <div class="row row-cols-1 row-cols-md-2 g-4">
     <div class="col" v-for="image in data.project_images" :key="image.id">
@@ -53,7 +53,6 @@ export default {
   setup() {
     const router = useRouter();
     const route = useRoute();
-    const projectId = ref();
 
     const data = reactive({
       id: '',
@@ -62,7 +61,6 @@ export default {
       image_preview: '',
       project_images: ''
     });
-    // console.log(projectId);
     onMounted(async () => {
       const response = await axios.get(`projects/${route.params.id}`);
       data.id = response.data.data.id;
@@ -70,7 +68,6 @@ export default {
       data.description = response.data.data.description;
       data.image_preview = response.data.data.image_preview;
       data.project_images = response.data.data.project_images
-      projectId.value = response.data.data.id
     });
     const submit = async () => {
       await axios.patch(`projects/${route.params.id}`, data);
@@ -80,7 +77,6 @@ export default {
     return {
       data,
       submit,
-      // projectId
     }
   },
 }

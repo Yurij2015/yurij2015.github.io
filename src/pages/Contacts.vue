@@ -3,15 +3,16 @@
     <div class="contacts my-3">
       <h3>Контактні дані:</h3>
       <p>
-        <a href="https://t.me/Mokrij" class="fa fa-telegram"></a>
-        <a href="https://www.facebook.com/yuriy.mokriy" class="fa fa-facebook"></a>
-        <a href="mailto:mokruy9999@gmail.com" class="fa fa-google"></a>
-        <a href="https://www.linkedin.com/in/yurij-mokrij-b9793aa6/" class="fa fa-linkedin"></a>
-        <a href="https://www.instagram.com/yurij_mokrij/" class="fa fa-instagram"></a>
-        <a href="Skype:mokruy9999?userinfo" class="fa fa-skype"></a>
-        <a href="https://github.com/Yurij2015" class="fa fa-github"></a>
+        <a href="https://t.me/Mokrij" target="_blank" class="fa fa-telegram"></a>
+        <a href="https://www.facebook.com/yuriy.mokriy" target="_blank" class="fa fa-facebook"></a>
+        <a href="mailto:mokruy9999@gmail.com" target="_blank" class="fa fa-google"></a>
+        <a href="https://www.linkedin.com/in/yurij-mokrij-b9793aa6/" target="_blank" class="fa fa-linkedin"></a>
+        <a href="https://www.instagram.com/yurij_mokrij/" target="_blank" class="fa fa-instagram"></a>
+        <a href="Skype:mokruy9999?userinfo" target="_blank" class="fa fa-skype"></a>
+        <a href="https://github.com/Yurij2015" target="_blank" class="fa fa-github"></a>
       </p>
-      <p class="lead">Основний канал зв'язку - <a href="" class="telegram-st">Telegram</a></p>
+      <p class="lead">Основний канал зв'язку - <a href="https://t.me/Mokrij" target="_blank" class="telegram-st">Telegram</a>
+      </p>
     </div>
   </div>
 </template>
@@ -24,7 +25,7 @@ export default {
 
 <style scoped>
 
-.telegram-st{
+.telegram-st {
   text-decoration: none;
 }
 
@@ -32,7 +33,7 @@ export default {
   font-weight: 400;
 }
 
-.contacts{
+.contacts {
   height: 80vh;
 }
 

@@ -14,28 +14,22 @@
 
 <script lang="ts">
 import axios from "axios";
-import {reactive, ref} from "vue";
-import {SetupContext} from "vue";
-import {useRoute} from "vue-router";
+import {reactive, SetupContext} from "vue";
 
 export default {
   name: "AddToGallery",
   emits: ['uploaded'],
-  setup(_: any, context: SetupContext) {
-    let projectId: string;
-    const route = useRoute();
-    // const router = useRouter();
-    projectId = route.params.id[0]
+  props: {projectId: String},
+  setup(props: any, context: SetupContext) {
     const upload = async (files: FileList | null) => {
       if (files === null) return;
       const file = files[0];
       const formData = new FormData();
       formData.append('image', file);
-      formData.append('project_id', projectId);
+      formData.append('project_id', props.projectId);
       const {data} = await axios.post('gallery-image', formData);
       context.emit('uploaded', data.url);
       gallery.image = data.url;
-      // router.push(`projects/${route.params.id}`);
     }
     const gallery = reactive({
       image: '',
@@ -43,7 +37,7 @@ export default {
 
     return {
       upload,
-      projectId,
+      // projectId,
       gallery
     }
   }

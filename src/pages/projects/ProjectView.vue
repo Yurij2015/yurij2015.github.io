@@ -12,7 +12,7 @@
         <div class="col-md-8">
           <div class="card-body">
             <h5 class="card-title">{{ data.title }}</h5>
-            <p class="card-text">{{ data.description }}</p>
+            <p class="card-text" v-html="data.description"></p>
           </div>
         </div>
       </div>
