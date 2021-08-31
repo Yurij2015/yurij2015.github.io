@@ -23,7 +23,7 @@
           </router-link>
         </li>
       </ul>
-      <div class="alert alert-warning m-1 small" role="alert">
+      <div class="alert alert-warning m-1 description" role="alert">
         <p>Даний сайт виконано у вигляді клієнт-серверного додатку.</p>
         <p>Для розробки API використані можливості Laravel.</p>
         <p>В якості СУБД використана MySQL.</p>
@@ -42,3 +42,8 @@ export default {
   name: "Menu"
 }
 </script>
+<style scoped>
+.description{
+  font-size: 10px;
+}
+</style>

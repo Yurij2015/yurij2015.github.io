@@ -67,12 +67,12 @@ footer {
 
 @media (max-width: 767.98px) {
   .sidebar {
-    top: 5rem;
+    /*top: 5rem;*/
   }
 }
 
 .sidebar-sticky {
-  position: relative;
+  /*position: relative;*/
   top: 0;
   height: calc(100vh - 48px);
   padding-top: .5rem;
@@ -137,4 +137,5 @@ footer {
   border-color: transparent;
   box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
 }
+
 </style>
