@@ -24,12 +24,11 @@
         <button type="button" class="list-group-item list-group-item-action">Vue3</button>
         <button type="button" class="list-group-item list-group-item-action">ASP.NET MVC5</button>
         <button type="button" class="list-group-item list-group-item-action">ASP.NET Core</button>
-        <button type="button" class="list-group-item list-group-item-action">Node.js</button>
         <button type="button" class="list-group-item list-group-item-action">Express</button>
         <button type="button" class="list-group-item list-group-item-action">Django</button>
         <button type="button" class="list-group-item list-group-item-action">RoR</button>
         <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
-          Додаткові технології, програмні пакети та бібліотеки
+          Додаткові технології, програмні платформи, пакети та бібліотеки
         </button>
         <button type="button" class="list-group-item list-group-item-action">RedBeans PHP</button>
         <button type="button" class="list-group-item list-group-item-action">REST API</button>
@@ -41,6 +40,7 @@
         <button type="button" class="list-group-item list-group-item-action">Razor Pages</button>
         <button type="button" class="list-group-item list-group-item-action">Git</button>
         <button type="button" class="list-group-item list-group-item-action">OSPanel</button>
+        <button type="button" class="list-group-item list-group-item-action">Node.js</button>
         <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
           Бази даних
         </button>
