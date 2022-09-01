@@ -20,6 +20,8 @@
           Фреймворки
         </button>
         <button type="button" class="list-group-item list-group-item-action">Yii2</button>
+        <button type="button" class="list-group-item list-group-item-action">Symfony</button>
+        <button type="button" class="list-group-item list-group-item-action">Angular</button>
         <button type="button" class="list-group-item list-group-item-action">Laravel</button>
         <button type="button" class="list-group-item list-group-item-action">Vue3</button>
         <button type="button" class="list-group-item list-group-item-action">ASP.NET MVC5</button>
