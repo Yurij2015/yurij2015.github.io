@@ -3,13 +3,13 @@
     <hr class="featurette-divider">
     <div class="row featurette">
       <div class="col-md-9 order-md-2">
-        <h2 class="featurette-heading">Юрій <span class="text-muted">Мокрий</span></h2>
+        <h2 class="featurette-heading">Yurii <span class="text-muted">Mokryi</span></h2>
         <p class="lead">PHP Developer</p>
         <div class="row col-md-12">
           <div class="col-md-6">
             <p>Дата народження: 09.04.1982</p>
             <p>Бажана посада - PHP Backend Developer</p>
-            <p>Повна (неповна) зайнятість (віддалена)</p>
+            <p>Неповна (part time) зайнятість (remote)</p>
           </div>
           <div class="col-md-6">
             <p>Очікуваний рівень доходу: за домовленістю </p>
