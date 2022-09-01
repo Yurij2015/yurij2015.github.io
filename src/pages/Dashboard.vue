@@ -13,8 +13,8 @@
           </div>
           <div class="col-md-6">
             <p>Очікуваний рівень доходу: за домовленістю </p>
-            <p>Досвід роботи 6 років</p>
-            <p>Вересень 2015 - серпень 2021</p>
+            <p>Досвід роботи 7 років</p>
+            <p>Вересень 2015 - {{currentDate()}}</p>
           </div>
         </div>
       </div>
@@ -36,11 +36,11 @@
         <button type="button" class="list-group-item list-group-item-action">Досвід розробки ПЗ (веб-, мобільних та
           комп'ютерних додатків)
         </button>
-        <button type="button" class="list-group-item list-group-item-action">Робота з мовами програмування (PHP, C #,
+        <button type="button" class="list-group-item list-group-item-action">Робота з мовами програмування (PHP, C#,
           JavaScript, Go, SQL)
         </button>
         <button type="button" class="list-group-item list-group-item-action">Володіння мовами: українська, російська
-          мови вільно; англійська - А1 (А2)
+          мови вільно; англійська - А2 (B1)
         </button>
       </div>
       <p class="lead mt-3">Ліцензії та сертифікати</p>
@@ -93,7 +93,13 @@
 
 <script>
 export default {
-  name: "Dashboard"
+  name: "Dashboard",
+  methods: {
+    currentDate() {
+      const current = new Date();
+      return `${current.getDate()}/${current.getMonth() + 1}/${current.getFullYear()}`;
+    }
+  }
 }
 </script>
 
