@@ -35,6 +35,7 @@
         <button type="button" class="list-group-item list-group-item-action">RedBeans PHP</button>
         <button type="button" class="list-group-item list-group-item-action">REST API</button>
         <button type="button" class="list-group-item list-group-item-action">Docker</button>
+        <button type="button" class="list-group-item list-group-item-action">Docker compose</button>
         <button type="button" class="list-group-item list-group-item-action">TinyMCE</button>
         <button type="button" class="list-group-item list-group-item-action">LteAdmin</button>
         <button type="button" class="list-group-item list-group-item-action">Ajax</button>
@@ -56,6 +57,8 @@
         <button type="button" class="list-group-item list-group-item-action">PHPStorm</button>
         <button type="button" class="list-group-item list-group-item-action">Postman</button>
         <button type="button" class="list-group-item list-group-item-action">Visual Studio</button>
+        <button type="button" class="list-group-item list-group-item-action">Visual Studio Code</button>
+        <button type="button" class="list-group-item list-group-item-action">DBeaver</button>
         <button type="button" class="list-group-item list-group-item-action">Goland</button>
         <button type="button" class="list-group-item list-group-item-action">PyCharm</button>
         <button type="button" class="list-group-item list-group-item-action">RubyMine</button>
