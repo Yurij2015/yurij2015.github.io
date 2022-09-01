@@ -81,7 +81,7 @@
         <p class="lead mt-3">Додаткова інформація</p>
         <div class="list-group">
           <button type="button" class="list-group-item list-group-item-action">Сімейний стан: одружений</button>
-          <button type="button" class="list-group-item list-group-item-action">Діти: 2 діток</button>
+          <button type="button" class="list-group-item list-group-item-action">Діти: 3 діток</button>
           <button type="button" class="list-group-item list-group-item-action">Можливість відряджень: так</button>
           <button type="button" class="list-group-item list-group-item-action">Закордонний паспорт: є</button>
         </div>
