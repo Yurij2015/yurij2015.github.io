@@ -1,33 +1,33 @@
 <template>
   <div class="pt-3 pb-2 mb-3 border-bottom">
-    <router-link to="/projects" class="btn btn-sm btn-outline-primary">До списку проектів</router-link>
+    <router-link to="/projects" class="btn btn-sm btn-outline-primary">To the list of projects</router-link>
   </div>
   <form @submit.prevent="submit">
-    <h2 class="h3 mb-3 fw-normal">Редагувати проект - {{ data.title }}</h2>
+    <h2 class="h3 mb-3 fw-normal">Edit the project - {{ data.title }}</h2>
     <div class="mb-3">
-      <label for="title">Назва проекту</label>
+      <label for="title">Project name</label>
       <input name="title" id="title" type="text" class="form-control" placeholder="Назва проекту" v-model="data.title">
     </div>
     <div class="mb-3">
-      <label>Опис проекту</label>
+      <label>Description of the project</label>
       <editor v-model="data.description" :init="{height: 300, plugins: ['link']}"></editor>
       <!--      <input name="description" id="description" type="text" class="form-control" placeholder="Опис проекту"-->
       <!--             v-model="data.description">-->
     </div>
     <div class="mb-3">
-      <label for="image_preview">Зображення</label>
+      <label for="image_preview">Image</label>
       <div class="input-group">
         <input v-model="data.image_preview" id="image_preview" class="form-control" name="image_preview">
         <ImageUpload @uploaded="data.image_preview = $event"/>
       </div>
     </div>
-    <button class="w-100 btn btn btn-primary">Зберегти</button>
+    <button class="w-100 btn btn btn-primary">Save</button>
   </form>
   <hr>
-  <h5>Додати зображення в галерею проекту</h5>
+  <h5>Add images to the project gallery</h5>
   <AddToGallery :projectId="String(Number(data.id))"/>
   <!--  <AddToGallery/>-->
-  <h4>Галерея проекту</h4>
+  <h4>Gallery of the project</h4>
   <div class="row row-cols-1 row-cols-md-2 g-4">
     <div class="col" v-for="image in data.project_images" :key="image.id">
       <div class="card">
