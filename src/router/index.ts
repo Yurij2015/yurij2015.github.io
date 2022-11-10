@@ -11,15 +11,11 @@ import Technologies from '@/pages/Technologies.vue'
 const routes: Array<RouteRecordRaw> = [
     {path: '', component: Dashboard},
     {path: '/projects', component: Projects},
-    // {path: '/project-create', component: ProjectCreate},
-    // {path: '/project-edit/:id', component: ProjectEdit},
     {path: '/project-create', component: ProjectCreate},
     {path: '/project-edit/:id', component: ProjectEdit},
     {path: '/project-view/:id', component: ProjectView},
     {path: '/contacts', component: Contacts},
     {path: '/technologies', component: Technologies},
-
-
 ]
 
 const router = createRouter({

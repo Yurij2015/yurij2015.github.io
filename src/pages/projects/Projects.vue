@@ -1,7 +1,6 @@
 <template>
   <div class="pt-3 pb-2 mb-3 border-bottom">
-    <!--    <router-link to="/project-create" class="btn btn-sm btn-outline-primary disabled" v-show="false">Додати проект</router-link>-->
-    <router-link to="/project-create" class="btn btn-sm btn-outline-primary">Add a project</router-link>
+    <router-link to="/project-create" class="btn btn-sm btn-outline-primary" v-show="false">Add a project</router-link>
   </div>
   <h2>Completed projects</h2>
   <div class="table-responsive">
@@ -11,7 +10,7 @@
         <th scope="col">Project name</th>
         <th scope="col">Description of the project</th>
         <th scope="col">Image</th>
-<!--        <th scope="col">Actions</th>-->
+        <th scope="col">Actions</th>
       </tr>
       </thead>
       <tbody>
@@ -23,11 +22,9 @@
           <div class="btn-group mr-2">
             <router-link :to="`/project-view/${project.id}`" class="btn btn-sm btn-outline-info">View
             </router-link>
-            <!--<router-link :to="`/project-edit/${project.id}`" class="btn btn-sm btn-outline-warning" v-show="false">Редагувати-->
-            <router-link :to="`/project-edit/${project.id}`" class="btn btn-sm btn-outline-warning">Edit
+            <router-link :to="`/project-edit/${project.id}`" class="btn btn-sm btn-outline-warning" v-show="false">Edit
             </router-link>
-            <!--<a href="javascript:void(0)" class="btn btn-sm btn-outline-danger" @click="del(project.id)" v-show="false">Видалити</a>-->
-            <a href="javascript:void(0)" class="btn btn-sm btn-outline-danger" @click="del(project.id)">Delete</a>
+            <a href="javascript:void(0)" class="btn btn-sm btn-outline-danger" @click="del(project.id)" v-show="false">Delete</a>
           </div>
         </td>
       </tr>
