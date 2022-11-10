@@ -4,34 +4,34 @@
       <ul class="nav flex-column">
         <li class="nav-item">
           <router-link class="nav-link" active-class="active" to="/">
-            Головна
+            Main
           </router-link>
         </li>
         <li class="nav-item">
           <router-link class="nav-link" active-class="active" to="/projects">
-            Проекти
+            Projects
           </router-link>
         </li>
         <li class="nav-item">
           <router-link class="nav-link" active-class="active" to="/technologies">
-            Технології
+            Technologies
           </router-link>
         </li>
         <li class="nav-item">
           <router-link class="nav-link" active-class="active" to="/contacts">
-            Контакти
+            Contacts
           </router-link>
         </li>
       </ul>
       <div class="alert alert-warning m-1 description" role="alert">
-        <p>Даний сайт виконано у вигляді клієнт-серверного додатку.</p>
-        <p>Для розробки API використані можливості Laravel.</p>
-        <p>В якості СУБД використана MySQL.</p>
-        <p>Серверна частина розміщена на хостингу hostinger.com.ua</p>
-        <p>Клієнтська частина виконана з допомогою Vue 3, Bootstrap 5.</p>
-        <p>В якості текстового редактора використаний TinyMCE 5.</p>
-        <p>Клієнтська частина розміщена на GitHub Pages</p>
-        <p>Середовище розробки - PHPStorm.</p>
+        <p>This site is designed as a client-server application.</p>
+        <p>The capabilities of Laravel were used to develop the API.</p>
+        <p>MySQL was used as a DBMS.</p>
+        <p>The server part is hosted on hostinger.com.ua</p>
+        <p>The client part is made using Vue 3, Bootstrap 5.</p>
+        <p>TinyMCE 5 was used as a text editor.</p>
+        <p>The client part is hosted on GitHub Pages.</p>
+        <p>The IDE is PHPStorm.</p>
       </div>
     </div>
   </nav>

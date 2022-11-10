@@ -1,10 +1,10 @@
 <template>
   <form>
     <div class="mb-3">
-      <label for="image_to_gallery">Зображення для галереї</label>
+      <label for="image_to_gallery">Image for gallery</label>
       <div class="input-group">
         <input class="form-control" name="image" id="image_to_gallery" v-model="gallery.image">
-        <label class="btn btn-primary">Вибрати зображення для галереї
+        <label class="btn btn-primary">Select an image for the gallery
           <input type="file" hidden @change="upload($event.target.files)">
         </label>
       </div>

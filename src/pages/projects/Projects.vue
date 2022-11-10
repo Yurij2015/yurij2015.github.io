@@ -11,7 +11,7 @@
         <th scope="col">Project name</th>
         <th scope="col">Description of the project</th>
         <th scope="col">Image</th>
-        <th scope="col">Actions</th>
+<!--        <th scope="col">Actions</th>-->
       </tr>
       </thead>
       <tbody>

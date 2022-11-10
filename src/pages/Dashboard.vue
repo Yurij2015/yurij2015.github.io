@@ -7,14 +7,14 @@
         <p class="lead">PHP Developer</p>
         <div class="row col-md-12">
           <div class="col-md-6">
-            <p>Дата народження: 09.04.1982</p>
-            <p>Бажана посада - PHP Backend Developer</p>
-            <p>Неповна (part time) зайнятість (remote)</p>
+            <p>Date of birth: 09.04.1982</p>
+            <p>Career objective: PHP Backend developer (Full-stack PHP developer)</p>
+            <p><a href="https://1drv.ms/b/s!ArgYbNG5x2qxu7cfMQm1ezEmmGGc6Q" target="_blank" class="downloadlink">Download
+              CV</a></p>
           </div>
           <div class="col-md-6">
-            <p>Очікуваний рівень доходу: за домовленістю </p>
-            <p>Досвід роботи 7 років</p>
-            <p>1/9/2015 - {{currentDate()}}</p>
+            <p>Work experience: 7 years</p>
+            <p>1/9/2015 - {{ currentDate() }}</p>
           </div>
         </div>
       </div>
@@ -24,28 +24,25 @@
       </div>
     </div>
     <div class="dashboard">
-      <p class="lead">Професійні навички</p>
+      <p class="lead">Professional skills:</p>
       <div class="list-group">
-        <button type="button" class="list-group-item list-group-item-action">Вільне володіння ПК</button>
-        <button type="button" class="list-group-item list-group-item-action">10-пальцевий сліпий набір (англ., укр.,
-          рос)
+        <button type="button" class="list-group-item list-group-item-action">Touch typing with 10 fingers (Ukraine,
+          English, Russian)
         </button>
-        <button type="button" class="list-group-item list-group-item-action">Знання основних операційних систем
-          (Windows, Ubuntu, Mac).
+        <button type="button" class="list-group-item list-group-item-action">Experience in software development (web,
+          mobile and desktop apps)
         </button>
-        <button type="button" class="list-group-item list-group-item-action">Досвід розробки ПЗ (веб-, мобільних та
-          комп'ютерних додатків)
+        <button type="button" class="list-group-item list-group-item-action">Programming languages including <b>PHP</b>,
+          C#,
+          JavaScript, SQL
         </button>
-        <button type="button" class="list-group-item list-group-item-action">Робота з мовами програмування (PHP, C#,
-          JavaScript, Go, SQL)
-        </button>
-        <button type="button" class="list-group-item list-group-item-action">Володіння мовами: українська, російська
-          мови вільно; англійська - А2 (B1)
+        <button type="button" class="list-group-item list-group-item-action">Language skills: Ukrainian – native;
+          Russian; English – good technical knowledge (reading) - A2 (B1).
         </button>
       </div>
-      <p class="lead mt-3">Ліцензії та сертифікати</p>
+      <p class="lead mt-3">Licenses and Certifications</p>
       <div class="list-group">
-        <button type="button" class="list-group-item list-group-item-action">A-Level Poltava: Сертифікат A-Level PHP
+        <button type="button" class="list-group-item list-group-item-action">A-Level Poltava: A-Level PHP Certification
           (Yii2)
         </button>
         <button type="button" class="list-group-item list-group-item-action">LinkedIn: PHP: Object-Oriented
@@ -60,30 +57,32 @@
           Laravel
         </button>
         <button type="button" class="list-group-item list-group-item-action">Udemy: Go & Vue</button>
-        <button type="button" class="list-group-item list-group-item-action">SoftGroup Ukraine: Сертифікат SoftGroup
-          (WordPress)
+        <button type="button" class="list-group-item list-group-item-action">SoftGroup Ukraine: SoftGroup WordPress
+          Certification
         </button>
-        <button type="button" class="list-group-item list-group-item-action">Stepik: JavaScript для початківців</button>
+        <button type="button" class="list-group-item list-group-item-action">Stepik: JavaScript for beginners</button>
       </div>
       <hr>
       <div>
         <p>
-          У створених проектах виконував проектування структури, бізнес-процесів (ARIS, IDEF0, UML), алгоритмів, функціоналу
-          додатків і моделей баз даних, реалізовував функціонал по створеним алгоритмам. Створював структуру додатків, реалізовував
-          клієнт-серверну взаємодію за допомогою REST API, розробляв CRUD для різних СУБД на PHP, C #, Go.
+          When creating projects, I’ve designed their structure, business processes (ARIS, IDEF0), algorithms, app and
+          database options. In addition, I’ve implemented app options based on the created algorithms and dealt with
+          client-server communication by means of REST API. Besides, I’ve developed CRUD for various DBMS used with PHP,
+          JavaScript, C# and other programming languages. In projects, I work with tasks for the server and client
+          parts. All the projects I work with and have worked with are running in Docker.
         </p>
         <p>
-          Особисті якості: працьовитість, уважність, акуратність, ініціативність, бажання працювати і розвиватися,
-          вміння працювати з великим об'ємом інформації, аналітичний склад розуму, схильність до самонавчання, детальний
-          розбір і рішення складних завдань, декомпозиція завдань на підзавдання. Уміння швидко освоїти нові технології, технологію.
+          Personal qualities: hard-working, attentive, diligent, initiative, willing to work and develop, able to handle
+          large amounts of data, strong analytical thinking, tend to self-study, creative, able to quickly master a new
+          software product or technology.
         </p>
         <hr>
-        <p class="lead mt-3">Додаткова інформація</p>
+        <p class="lead mt-3">Additional information</p>
         <div class="list-group">
-          <button type="button" class="list-group-item list-group-item-action">Сімейний стан: одружений</button>
-          <button type="button" class="list-group-item list-group-item-action">Діти: 3 діток</button>
-          <button type="button" class="list-group-item list-group-item-action">Можливість відряджень: так</button>
-          <button type="button" class="list-group-item list-group-item-action">Закордонний паспорт: є</button>
+          <button type="button" class="list-group-item list-group-item-action">Marital status: married</button>
+          <button type="button" class="list-group-item list-group-item-action">Children: yes (3)</button>
+          <button type="button" class="list-group-item list-group-item-action">Ready for business trips: yes</button>
+          <button type="button" class="list-group-item list-group-item-action">Travel document: yes</button>
         </div>
       </div>
     </div>
@@ -129,6 +128,21 @@ export default {
   letter-spacing: -.05rem;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
 
 @media (min-width: 40em) {
 

@@ -1,5 +1,5 @@
 <template>
-  <label class="btn btn-primary">Вибрати зображення
+  <label class="btn btn-primary">Select an image
     <input type="file" hidden @change="upload($event.target.files)">
   </label>
 </template>

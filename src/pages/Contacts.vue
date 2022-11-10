@@ -1,7 +1,7 @@
 <template>
   <div class="contacts">
     <div class="contacts my-3">
-      <h3>Контактні дані:</h3>
+      <h3>Contacts:</h3>
       <p>
         <a href="https://t.me/Mokrij" target="_blank" class="fa fa-telegram"></a>
         <a href="https://www.facebook.com/yuriy.mokriy" target="_blank" class="fa fa-facebook"></a>
@@ -11,7 +11,7 @@
         <a href="Skype:mokruy9999?userinfo" target="_blank" class="fa fa-skype"></a>
         <a href="https://github.com/Yurij2015" target="_blank" class="fa fa-github"></a>
       </p>
-      <p class="lead">Основний канал зв'язку - <a href="https://t.me/Mokrij" target="_blank" class="telegram-st">Telegram</a>
+      <p class="lead">The main communication channel - <a href="https://t.me/Mokrij" target="_blank" class="telegram-st">Telegram</a>
       </p>
     </div>
   </div>
