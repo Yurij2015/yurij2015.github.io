@@ -9,11 +9,13 @@
           <div class="col-md-6">
             <p>Date of birth: 09.04.1982</p>
             <p>Career objective: PHP Backend developer (Full-stack PHP developer)</p>
-            <p><a href="https://1drv.ms/b/s!ArgYbNG5x2qxu7cfMQm1ezEmmGGc6Q" target="_blank" class="downloadlink">Download
+            <p>Job type: part time, remote</p>
+            <p><a href="https://1drv.ms/b/s!ArgYbNG5x2qxu7kag7kG8nEVOc9V0g?e=PQwt3D" target="_blank" class="downloadlink">Download
               CV</a></p>
           </div>
           <div class="col-md-6">
-            <p>Work experience: 7 years</p>
+            <p>Work experience: {{ workExperience() }} year(s)</p>
+            <p>Commercial experience: {{ commercialExperience() }} year(s)</p>
             <p>1/9/2015 - {{ currentDate() }}</p>
           </div>
         </div>
@@ -33,11 +35,10 @@
           mobile and desktop apps)
         </button>
         <button type="button" class="list-group-item list-group-item-action">Programming languages including <b>PHP</b>,
-          C#,
           JavaScript, SQL
         </button>
         <button type="button" class="list-group-item list-group-item-action">Language skills: Ukrainian – native;
-          Russian; English – good technical knowledge (reading) - A2 (B1).
+          Russian; English - A2
         </button>
       </div>
       <p class="lead mt-3">Licenses and Certifications</p>
@@ -97,6 +98,21 @@ export default {
     currentDate() {
       const current = new Date();
       return `${current.getDate()}/${current.getMonth() + 1}/${current.getFullYear()}`;
+    },
+    workExperience() {
+      const diff = new Date() - new Date('9/1/2015');
+      return (diff / 31556952000).toFixed(1);
+    },
+    partTimeCentumExperience() {
+      const diff = new Date('10/1/2022') - new Date('11/26/2021');
+      return (diff / 31556952000).toFixed(2);
+    },
+    pgExperience() {
+      const dComerc = new Date() - new Date("9/20/2021");
+      return (dComerc / 31556952000).toFixed(2);
+    },
+    commercialExperience() {
+      return (parseFloat(this.partTimeCentumExperience()) + parseFloat(this.pgExperience())).toFixed(1);
     }
   }
 }

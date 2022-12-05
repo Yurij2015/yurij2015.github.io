@@ -4,9 +4,9 @@
       <h3>Contacts:</h3>
       <p>
         <a href="https://t.me/Mokrij" target="_blank" class="fa fa-telegram"></a>
-        <a href="https://www.facebook.com/yuriy.mokriy" target="_blank" class="fa fa-facebook"></a>
+        <a href="https://www.facebook.com/yurii.mokryi/" target="_blank" class="fa fa-facebook"></a>
         <a href="mailto:mokruy9999@gmail.com" target="_blank" class="fa fa-google"></a>
-        <a href="https://www.linkedin.com/in/yurij-mokrij-b9793aa6/" target="_blank" class="fa fa-linkedin"></a>
+        <a href="https://www.linkedin.com/in/yurii-mokryi-b9793aa6/" target="_blank" class="fa fa-linkedin"></a>
         <a href="https://www.instagram.com/yurij_mokrij/" target="_blank" class="fa fa-instagram"></a>
         <a href="Skype:mokruy9999?userinfo" target="_blank" class="fa fa-skype"></a>
         <a href="https://github.com/Yurij2015" target="_blank" class="fa fa-github"></a>

@@ -2,7 +2,7 @@
   <div class="pt-3 pb-2 mb-3 border-bottom">
     <router-link to="/project-create" class="btn btn-sm btn-outline-primary" v-show="false">Add a project</router-link>
   </div>
-  <h2>Completed projects</h2>
+  <h2>List of projects</h2>
   <div class="table-responsive">
     <table class="table table-striped table-sm">
       <thead>
@@ -61,3 +61,8 @@ export default {
   }
 }
 </script>
+<style>
+a {
+  text-decoration: none;
+}
+</style>
