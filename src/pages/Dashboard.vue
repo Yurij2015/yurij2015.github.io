@@ -10,7 +10,7 @@
             <p>Date of birth: 09.04.1982</p>
             <p>Career objective: PHP Backend developer (Full-stack PHP developer)</p>
             <p>Job type: part time, remote</p>
-            <p><a href="https://1drv.ms/b/s!ArgYbNG5x2qxu7kag7kG8nEVOc9V0g?e=PQwt3D" target="_blank" class="downloadlink">Download
+            <p><a href="https://1drv.ms/b/s!ArgYbNG5x2qxu7sfUTwhFwlcY9E6nQ?e=KIOJnB" target="_blank" class="downloadlink">Download
               CV</a></p>
           </div>
           <div class="col-md-6">
