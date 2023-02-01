@@ -4,19 +4,21 @@
     <div class="row featurette">
       <div class="col-md-9 order-md-2">
         <h2 class="featurette-heading">Yurii <span class="text-muted">Mokryi</span></h2>
-        <p class="lead">PHP Developer</p>
+        <p class="lead">PHP Developer (Full-stack PHP developer)</p>
         <div class="row col-md-12">
           <div class="col-md-6">
             <p>Date of birth: 09.04.1982</p>
             <p>Career objective: PHP Backend developer (Full-stack PHP developer)</p>
             <p>Job type: part time, remote</p>
-            <p><a href="https://1drv.ms/b/s!ArgYbNG5x2qxu7sfUTwhFwlcY9E6nQ?e=KIOJnB" target="_blank" class="downloadlink">Download
+            <p><a href="https://1drv.ms/b/s!ArgYbNG5x2qxu7sfUTwhFwlcY9E6nQ?e=KIOJnB" target="_blank"
+                  class="downloadlink">Download
               CV</a></p>
           </div>
           <div class="col-md-6">
             <p>Work experience: {{ workExperience() }} year(s)</p>
             <p>Commercial experience: {{ commercialExperience() }} year(s)</p>
             <p>1/9/2015 - {{ currentDate() }}</p>
+            <p><a href="https://github.com/Yurij2015" target="_blank">GitHub</a></p>
           </div>
         </div>
       </div>
@@ -26,7 +28,19 @@
       </div>
     </div>
     <div class="dashboard">
-      <p class="lead">Professional skills:</p>
+      <p class="lead">Work experience:</p>
+      <div class="list-group">
+        <button type="button" class="list-group-item list-group-item-action">09.2015 - 09.2021 - Self employed,
+          freelance, agency. Creating of websites on PHP, WordPress, Yii2, Laravel
+        </button>
+        <button type="button" class="list-group-item list-group-item-action">11.2021 - 09.2022 - FullStack Developer in
+          Webagency CentumD (Ukraine, Dnepr). Yii2, MySQL. Part-time. Remote
+        </button>
+        <button type="button" class="list-group-item list-group-item-action">09.2021 - current time - FullStack
+          Developer in PG (Monaco). Symfony, Angular, Vue. Full time. Remote
+        </button>
+      </div>
+      <p class="lead mt-3">Professional skills:</p>
       <div class="list-group">
         <button type="button" class="list-group-item list-group-item-action">Touch typing with 10 fingers (Ukraine,
           English, Russian)
