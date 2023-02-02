@@ -34,10 +34,10 @@
           freelance, agency. Creating of websites on PHP, WordPress, Yii2, Laravel
         </button>
         <button type="button" class="list-group-item list-group-item-action">11.2021 - 09.2022 - FullStack Developer in
-          Webagency CentumD (Ukraine, Dnepr). Yii2, MySQL. Part-time. Remote
+          Centum-D web studio (Ukraine, Dnipro). PHP, Yii2, MySQL. Part-time. Remote
         </button>
         <button type="button" class="list-group-item list-group-item-action">09.2021 - current time - FullStack
-          Developer in PG (Monaco). Symfony, Angular, Vue. Full time. Remote
+          Developer in PG (Monaco). PHP, Symfony, MySQL, Angular, Vue. Full-time. Remote
         </button>
       </div>
       <p class="lead mt-3">Professional skills:</p>

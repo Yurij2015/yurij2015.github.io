@@ -2,7 +2,12 @@
   <div class="pt-3 pb-2 mb-3 border-bottom">
     <router-link to="/project-create" class="btn btn-sm btn-outline-primary" v-show="false">Add a project</router-link>
   </div>
-  <h2>List of projects</h2>
+  <h2>Some of the projects I have worked on
+    <sub class="ml-2 sub-text">
+      More projects on the
+      <a href="https://github.com/Yurij2015" target="_blank">GitHub</a>
+    </sub>
+  </h2>
   <div class="table-responsive">
     <table class="table table-striped table-sm">
       <thead>
@@ -64,5 +69,11 @@ export default {
 <style>
 a {
   text-decoration: none;
+}
+
+.sub-text {
+  color: #125688;
+  font-size: 12px;
+  margin-left: 5px;;
 }
 </style>
