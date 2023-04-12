@@ -15,8 +15,8 @@
               CV</a></p>
           </div>
           <div class="col-md-6">
-            <p>Work experience: {{ workExperience() }} year(s)</p>
-            <p>Commercial experience: {{ commercialExperience() }} year(s)</p>
+            <p>Work experience (self-employment, freelance, teamwork): {{ workExperience() }} year(s)</p>
+            <p>Experience of working with companies (teamwork): {{ commercialExperience() }} year(s)</p>
             <p>1/9/2015 - {{ currentDate() }}</p>
             <p><a href="https://github.com/Yurij2015" target="_blank">GitHub</a></p>
           </div>
@@ -35,6 +35,9 @@
         </button>
         <button type="button" class="list-group-item list-group-item-action">11.2021 - 09.2022 - FullStack Developer in
           Centum-D web studio (Ukraine, Dnipro). PHP, Yii2, MySQL. Part-time. Remote
+        </button>
+        <button type="button" class="list-group-item list-group-item-action">10.2022 - current time - FullStack Developer.
+          DigiSpace (Poland). PHP, Laravel, Vue, MySQL. Part-time
         </button>
         <button type="button" class="list-group-item list-group-item-action">09.2021 - current time - FullStack
           Developer in PG (Monaco). PHP, Symfony, MySQL, Angular, Vue. Full-time. Remote
