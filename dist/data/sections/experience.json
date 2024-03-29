@@ -1,0 +1,128 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Professional</span> Experience",
+      "description": "Delving into the breadth of my work experience and career journey reveals a path marked by continuous learning, adaptation, and a steadfast commitment to excellence in the dynamic field of web development."
+    },
+    "es": {
+      "title": "<span class='text-primary'>Професійний</span> досвід",
+      "description": "Заглиблюючись у мій досвід роботи та кар'єрний шлях, можна побачити шлях, позначений безперервним навчанням, адаптацією та непохитним прагненням до досконалості в динамічній сфері веб-розробки."
+    },
+    "fr": {
+      "title": "Doświadczenie <span class='text-primary'> profesjonalne\n</span>",
+      "description": "Zagłębiając się w moje doświadczenie zawodowe i karierę, odkrywam ścieżkę naznaczoną ciągłym uczeniem się, adaptacją i niezłomnym zaangażowaniem w dążenie do doskonałości w dynamicznej dziedzinie tworzenia stron internetowych."
+    }
+  },
+  "items": [
+    {
+      "id": "experience_item_1",
+      "place": "@link{places.studhouse}",
+      "period": [
+        "2013/09",
+        "2021/09"
+      ],
+      "locales": {
+        "en": {
+          "title": "Web developer. StudHouse Agency",
+          "description": "Starting my eight-year career at StudHouse Agency, I took on the challenge of performing multifaceted duties that included designing and developing the agency's main website using the <span style='color: red; font-weight: bold'>WordPress</span> platform, providing user support, content management, and search engine optimization. Particular attention was paid to custom WordPress development, the needs for which arose in the course of the site's functioning and were not satisfied by existing plugins or templates. In addition, I participated in the creation and administration of the agency's network of additional websites and actively promoted the agency on social media, developing strategies for engaging with the audience and increasing brand awareness. This experience not only expanded my technical skills, but also developed my strategic thinking and management abilities."
+        },
+        "ua": {
+          "title": "Web developer. StudHouse Agency",
+          "description": "Починаючи свою восьмирічну кар'єру в агенції StudHouse, я прийняв виклик виконання багатогранних обов'язків, що охоплювали проєктування та розробку основного сайту агенції на платформі WordPress, забезпечення підтримки користувачів, управління контентом та пошукову оптимізацію. Особлива увага приділялася кастомній розробці WordPress, потреби в якій виникали в процесі функціонування сайту і не задовольнялися наявними плагінами або шаблонами. Крім того, я брав участь у створенні та адмініструванні мережі додаткових сайтів агентства та активно просував агентство в соціальних мережах, розробляючи стратегії взаємодії з аудиторією та підвищення впізнаваності бренду. Цей досвід не лише розширив мої технічні навички, але й розвинув стратегічне мислення та управлінські здібності."
+        },
+        "pl": {
+          "title": "Web developer. StudHouse Agency",
+          "description": "Rozpoczynając swoją ośmioletnią karierę w StudHouse, podjąłem wyzwanie wielopłaszczyznowych obowiązków, które obejmowały projektowanie i rozwijanie głównej strony internetowej agencji przy użyciu platformy WordPress, zapewniając wsparcie dla użytkowników, zarządzanie treścią i optymalizację pod kątem wyszukiwarek. Szczególną uwagę zwrócono na niestandardowy rozwój WordPressa, gdy w trakcie życia witryny pojawiły się potrzeby, których nie spełniały istniejące wtyczki lub szablony. Ponadto byłem zaangażowany w tworzenie i administrowanie siecią dodatkowych stron internetowych agencji i aktywnie promowałem agencję w mediach społecznościowych, opracowując strategie angażowania odbiorców i zwiększania świadomości marki. To doświadczenie nie tylko poszerzyło moje umiejętności techniczne, ale także rozwinęło moje strategiczne myślenie i umiejętności zarządzania."
+        }
+      }
+    },
+    {
+      "id": "experience_item_2",
+      "place": "@link{places.freelance}",
+      "period": [
+        "2015/09",
+        "2021/09"
+      ],
+      "locales": {
+        "en": {
+          "title": "Self-employed freelancer",
+          "description": "In parallel with my work at StudHouse, I started my journey as a freelancer and entrepreneur, offering my expertise in website development using PHP, WordPress, Yii2, Laravel. This period was characterized by a high degree of autonomy and entrepreneurial spirit as I worked on customized digital solutions for a diverse clientele. During this time, I created online stores for various industries, websites for travel agencies, language schools, furniture companies, kindergartens, and many other projects. Each project contributed to my development, forcing me to adapt my approaches to effectively solve various business problems and customer requirements. This period has not only refined my technical skills, but also significantly improved my project management and client communication abilities, developing my adaptability and problem-solving skills in the dynamic world of web development."
+        },
+        "ua": {
+          "title": "Self-employed freelancer",
+          "description": "Паралельно з роботою в агенції StudHouse я розпочав свій шлях як фрилансер та підприємець, пропонуючи свій досвід у створенні вебсайтів за допомогою PHP, WordPress, Yii2, Laravel. Цей період відзначався високою ступенем автономії та підприємницьким духом, коли я працював над індивідуальними цифровими рішеннями для різноманітної клієнтури. Протягом цього часу було створено інтернет-магазини для різних галузей, вебсайти для туристичних агенцій, мовних шкіл, меблевих компаній, дитячих садочків та багатьох інших проєктів. Кожен проєкт сприяв моєму розвитку, змушуючи мене адаптувати мої підходи для ефективного вирішення різноманітних бізнес-завдань та вимог клієнтів. Цей період не тільки удосконалив мої технічні навички, але й значно покращив мої здібності в управлінні проєктами та комунікації з клієнтами, розвинувши мою адаптивність та вміння вирішувати проблеми в динамічному світі веброзробки."
+        },
+        "pl": {
+          "title": "Samozatrudniony freelancer",
+          "description": "Równolegle z pracą w StudHouse rozpocząłem swoją podróż jako freelancer i przedsiębiorca, oferując swoją wiedzę w zakresie tworzenia stron internetowych przy użyciu PHP, WordPress, Yii2, Laravel. Okres ten charakteryzował się wysokim stopniem autonomii i ducha przedsiębiorczości, ponieważ pracowałem nad niestandardowymi rozwiązaniami cyfrowymi dla różnych klientów. W tym czasie stworzyłem sklepy internetowe dla różnych branż, strony internetowe dla biur podróży, szkół językowych, firm meblarskich, przedszkoli i wiele innych projektów. Każdy projekt przyczynił się do mojego rozwoju, zmuszając mnie do dostosowania mojego podejścia do skutecznego rozwiązywania różnych problemów biznesowych i wymagań klientów. Ten okres nie tylko wyostrzył moje umiejętności techniczne, ale także znacznie poprawił moje umiejętności zarządzania projektami i komunikacji z klientami, rozwinął moje zdolności adaptacyjne i umiejętności rozwiązywania problemów w dynamicznym świecie tworzenia stron internetowych.\n"
+        }
+      }
+    },
+    {
+      "id": "experience_item_3",
+      "place": "@link{places.centum-d}",
+      "period": [
+        "2021/11",
+        "2022/09"
+      ],
+      "locales": {
+        "en": {
+          "title": "FullStack developer at Centum-D",
+          "description": "Working remotely as a part-time FullStack developer at Centum-D IT outsourcing company in Dnipro, Ukraine, I was part of a team that participated in one of the company's key projects. My responsibilities covered a wide range of tasks - from maintaining and modifying existing code to developing and implementing new features, as well as updating the project. I actively used a core set of technologies, including PHP, Yii2, MySQL, JavaScript, and JQuery. I also effectively used additional tools and technologies such as Docker, command line, Ubuntu, and GitHub to optimize workflows and improve the quality of the final product. This job required me to have not only technical skills, but also the ability to work in a team, where my role was to actively collaborate with colleagues to achieve the goals of the project."
+        },
+        "ua": {
+          "title": "FullStack розробник у Centum-D ",
+          "description": "Працюючи віддалено як FullStack розробник на неповний робочий день у Centum-D у Дніпрі, Україна, я був частиною команди, яка брала участь в одному з ключових проєктів компанії. Мої обов'язки охоплювали широкий спектр завдань - від підтримки та модифікації наявного коду до розробки та впровадження нових функцій, а також оновлення проєкту. Я активно використовував основний набір технологій, включаючи PHP, Yii2, MySQL, JavaScript та JQuery. Я також ефективно використовував додаткові інструменти та технології, такі як Docker, командний рядок, Ubuntu та GitHub для оптимізації робочих процесів та покращення якості кінцевого продукту. Ця робота вимагала від мене не лише технічних навичок, а й уміння працювати в команді, де моя роль полягала в активній співпраці з колегами для досягнення загальних цілей проєкту."
+        },
+        "pl": {
+          "title": "Programista FullStack w Centum-D",
+          "description": "Pracując zdalnie jako programista FullStack w niepełnym wymiarze godzin w Centum-D w Dnieprze na Ukrainie, byłem częścią zespołu, który uczestniczył w jednym z kluczowych projektów firmy. Moje obowiązki obejmowały szeroki zakres zadań — od utrzymania i modyfikacji istniejącego kodu po opracowywanie i wdrażanie nowych funkcji, a także aktualizację projektu. Aktywnie korzystałem z podstawowego zestawu technologii, w tym PHP, Yii2, MySQL, JavaScript i JQuery. Skutecznie korzystałem również z dodatkowych narzędzi i technologii, takich jak Docker, wiersz poleceń, Ubuntu i GitHub, aby zoptymalizować przepływ pracy i poprawić jakość produktu końcowego. Praca ta wymagała ode mnie nie tylko umiejętności technicznych, ale także umiejętności pracy w zespole, gdzie moją rolą była aktywna współpraca z kolegami w celu osiągnięcia ogólnych celów projektu.\n"
+        }
+      }
+    },
+    {
+      "id": "experience_item_4",
+      "place": "@link{places.digi-space}",
+      "period": [
+        "2022/10",
+        "now"
+      ],
+      "locales": {
+        "en": {
+          "title": "FullStack developer at DigiSpace Studio",
+          "description": "While working at DigiSpace Studio, I continued my professional path as a part-time FullStack Developer, where my responsibilities included developing web applications using PHP, Laravel, Vue, and MySQL technologies. In my work, I also used tools such as Docker, command line, GitHub, and Ubuntu. Project management was carried out using Jira, YouTrack, GitHub, and Slack, which ensured a highly organized workflow and effective teamwork.\nWithin this role, I had the opportunity to work on various projects, including developing an analytics system to analyze user activity, building WordPress sites, as well as browser automation projects, and collecting data from targeted websites. This experience provided me with an exceptional opportunity to participate in a wide range of projects that required a unique combination of creativity, technical skill, and strategic thinking, which greatly enriched my understanding of modern web technologies and strengthened my professional skills."
+        },
+        "ua": {
+          "title": "FullStack розробник у DigiSpace Studio ",
+          "description": "Працюючи в DigiSpace Studio, я продовжив свій професійний шлях як FullStack розробник на неповний робочий день, де в мої обов'язки входила розробка вебдодатків з використанням технологій PHP, Laravel, Vue та MySQL. У своїй роботі я також використовував такі інструменти, як Docker, командний рядок, GitHub та Ubuntu. Управління проєктами здійснювалося за допомогою Jira, YouTrack, GitHub та Slack, що забезпечило високоорганізований робочий процес та ефективну командну роботу. В рамках цієї ролі я мав можливість працювати над різними проєктами, включаючи розробку аналітичної системи для аналізу активності користувачів, створення сайтів на WordPress, а також проєктів з автоматизації браузерів та збору даних з цільових вебсайтів. Цей досвід надав мені виняткову можливість взяти участь у широкому спектрі проєктів, які вимагали унікального поєднання креативності, технічних навичок та стратегічного мислення, що значно збагатило моє розуміння сучасних вебтехнологій та зміцнило мої професійні навички."
+        },
+        "pl": {
+          "title": "Programista FullStack w DigiSpace Studio",
+          "description": "Podczas pracy w DigiSpace Studio kontynuowałem karierę zawodową jako programista FullStack w niepełnym wymiarze godzin. Do moich zadań należało tworzenie aplikacji internetowych przy użyciu technologii takich jak PHP, Laravel, Vue i MySQL. Ponadto korzystałem z narzędzi takich jak Docker, wiersz poleceń, GitHub i Ubuntu. Zarządzanie projektami odbywało się za pomocą Jira, YouTrack, GitHub i Slack, co zapewniało doskonale zorganizowany przepływ pracy i efektywną współpracę zespołu.\n\nW tej roli miałem przyjemność pracować nad różnymi inicjatywami, w tym nad rozwojem systemu analitycznego do analizy aktywności użytkowników, tworzeniem stron internetowych WordPress, a także wdrażaniem projektów automatyzacji przeglądarek i agregowaniem danych z wybranych stron internetowych. Doświadczenie to dało mi wyjątkową okazję do uczestniczenia w szerokim zakresie projektów, które wymagały ode mnie zastosowania nie tylko umiejętności kreatywnych i technicznych, ale także strategicznego podejścia. Wszystkie te doświadczenia przyczyniły się do głębszego zrozumienia nowoczesnych technologii internetowych i znacznie poszerzyły moje kompetencje zawodowe."
+        }
+      }
+    },
+    {
+      "id": "experience_item_4",
+      "place": "@link{places.platinium-group}",
+      "period": [
+        "2021/09",
+        "now"
+      ],
+      "locales": {
+        "en": {
+          "title": "FullStack Developer at PG",
+          "description": "Since September 2021, I have been working as a FullStack developer for PG, a Monaco-based company that uses a full-time remote work model. My main responsibilities are related to the development and continuous improvement of sports ticketing platforms. My experience covers a wide range of technologies including PHP, Symfony, MySQL, Angular, Vue, as well as essential tools such as Docker, command line, GitLab and Linux. During my work, I solved various tasks, such as launching new features, improving existing ones, fixing bugs found while using the applications, and integrating payment systems such as Stripe, Ingenico, and Dalenys.\n\nThe project workflow and teamwork were optimized through the use of Jira, GitLab, and Slack, which contributed to a well-organized and collaborative environment. My role has also allowed me to delve into code quality assurance tools including Bagsnap, SonarLint, CsFixer, and PHPStan, which has helped to further improve the quality of our software solutions. This position requires not only deep technical acumen, but also excellent problem-solving skills, rapid deployment of new functionality, a knack for solving operational problems, and effective debugging skills. Every day brings new challenges and opportunities for professional growth, fueling my enthusiasm for pioneering innovation and striving for excellence in software development."
+        },
+        "ua": {
+          "title": "FullStack Developer at PG",
+          "description": "З вересня 2021 року я працюю FullStack розробником у PG, компанії з Монако, яка використовує модель віддаленої роботи на повний робочий день. Мої основні обов'язки пов'язані з розробкою та постійним вдосконаленням платформ для продажу спортивних квитків. Мій досвід охоплює широкий спектр технологій, включаючи PHP, Symfony, MySQL, Angular, Vue, а також основні інструменти, такі як Docker, командний рядок, GitLab та Linux. Під час роботи я вирішував різні завдання, такі як запуск нових функцій, покращення існуючих, виправлення помилок, знайдених під час використання додатків, та інтеграція платіжних систем, таких як Stripe, Ingenico та Dalenys.\n\nРобочий процес проєкту та командна робота були оптимізовані завдяки використанню Jira, GitLab та Slack, що сприяло створенню добре організованого середовища для співпраці. Моя роль також дозволила мені заглибитися в інструменти забезпечення якості коду, включаючи Bagsnap, SonarLint, CsFixer і PHPStan, що допомогло ще більше підвищити якість наших програмних рішень.Ця посада вимагає не лише глибокої технічної кмітливості, але й відмінних навичок вирішення проблем, швидкого розгортання нової функціональності, вміння вирішувати операційні проблеми та навичок ефективного налагодження. Кожен день приносить нові виклики та можливості для професійного зростання, підживлюючи мій ентузіазм до новаторських інновацій та прагнення до досконалості в розробці програмного забезпечення."
+        },
+        "pl": {
+          "title": "FullStack Developer at PG",
+          "description": "Od września 2021 roku pracuję jako programista FullStack dla PG, firmy z siedzibą w Monako, która wykorzystuje model pracy zdalnej w pełnym wymiarze godzin. Moje główne obowiązki związane są z rozwojem i ciągłym doskonaleniem platform sprzedaży biletów sportowych. Moje doświadczenie obejmuje szeroki zakres technologii, w tym PHP, Symfony, MySQL, Angular, Vue, a także niezbędne narzędzia, takie jak Docker, wiersz poleceń, GitLab i Linux. Podczas mojej pracy rozwiązywałem różne zadania, takie jak uruchamianie nowych funkcji, ulepszanie istniejących, naprawianie błędów znalezionych podczas korzystania z aplikacji oraz integracja systemów płatności, takich jak Stripe, Ingenico i Dalenys.Przepływ pracy w projekcie i praca zespołowa zostały zoptymalizowane dzięki wykorzystaniu Jira, GitLab i Slack, co przyczyniło się do dobrze zorganizowanego i opartego na współpracy środowiska. Moja rola pozwoliła mi również zagłębić się w narzędzia do zapewniania jakości kodu, w tym Bagsnap, SonarLint, CsFixer i PHPStan, co pomogło jeszcze bardziej poprawić jakość naszych rozwiązań programistycznych.\n\nStanowisko to wymaga nie tylko głębokiej wiedzy technicznej, ale także doskonałych umiejętności rozwiązywania problemów, szybkiego wdrażania nowych funkcji, talentu do rozwiązywania problemów operacyjnych i skutecznych umiejętności debugowania. Każdy dzień przynosi nowe wyzwania i możliwości rozwoju zawodowego, podsycając mój entuzjazm do pionierskich innowacji i dążenia do doskonałości w rozwoju oprogramowania.\n"
+        }
+      }
+    }
+  ]
+}

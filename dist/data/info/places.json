@@ -1,0 +1,92 @@
+{
+  "digi-space": {
+    "logoUrl": "images/places/digi-space.png",
+    "faIcon": "fas fa-code",
+    "locales": {
+      "en": {
+        "name": "DigiSpace"
+      },
+      "ua": {
+        "name": "DigiSpace"
+      },
+      "pl": {
+        "name": "DigiSpace"
+      }
+    }
+  },
+  "platinium-group": {
+    "logoUrl": "images/places/platinium-group.png",
+    "faIcon": "fas fa-calendar-alt",
+    "locales": {
+      "en": {
+        "name": "Platinium Group"
+      },
+      "ua": {
+        "name": "Platinium Group"
+      },
+      "pl": {
+        "name": "Platinium Group"
+      }
+    }
+  },
+  "centum-d": {
+    "logoUrl": "images/places/centum-d.png",
+    "faIcon": "fab fa-connectdevelop",
+    "locales": {
+      "en": {
+        "name": "CentumD"
+      },
+      "ua": {
+        "name": "CentumD"
+      },
+      "pl": {
+        "name": "CentumD"
+      }
+    }
+  },
+  "studhouse": {
+    "logoUrl": "images/places/stud-house.png",
+    "faIcon": "fas fa-user-graduate",
+    "locales": {
+      "en": {
+        "name": "StudHouse"
+      },
+      "ua": {
+        "name": "StudHouse"
+      },
+      "pl": {
+        "name": "StudHouse"
+      }
+    }
+  },
+  "freelance": {
+    "logoUrl": "images/places/freelance-work.png",
+    "faIcon": "fas fa-globe-europe",
+    "locales": {
+      "en": {
+        "name": "World"
+      },
+      "ua": {
+        "name": "World"
+      },
+      "pl": {
+        "name": "World"
+      }
+    }
+  },
+  "websummit": {
+    "logoUrl": "images/places/websummit_with_text.jpeg",
+    "faIcon": "fab fa-speaker-deck",
+    "locales": {
+      "en": {
+        "name": "WebSummit"
+      },
+      "ua": {
+        "name": "WebSummit"
+      },
+      "pl": {
+        "name": "WebSummit"
+      }
+    }
+  }
+}
