@@ -26,8 +26,8 @@
             <div class="flex-column-title">
               <h4 class="timeline-item-title fw-bold" v-html="item['locales']['title']"/>
               <h6 class="timeline-item-subtitle text-light-6 text-3">
-                <i class="fa-solid fa-building me-2 ms-2"/>
-                <span>{{ item['place'] ? item['place']['locales']['name'] : '' }}</span>
+                <i class="fa-solid me-2 ms-2" :class="item['place']['faIcon'] ? item['place']['faIcon'] : 'fa-solid fa-building'"/>
+                <span>{{ item['place'] ? item['place']['locales']['title'] : '' }}</span>
               </h6>
             </div>
 

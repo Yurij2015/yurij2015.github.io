@@ -1,10 +1,11 @@
 /**
  * This composable will fetch and manage the application data.
  */
-import {reactive} from "vue"
+import {computed, onMounted, reactive} from "vue"
 import {useUtils} from "./utils.js"
 import {useLanguage} from "./language.js"
 import {useConstants} from "./constants.js"
+import {useEducationStore} from "../stores/education.js";
 
 const constants = useConstants()
 const language = useLanguage()
@@ -165,6 +166,7 @@ export function useData() {
             const sectionCategoryId = section['categoryId']
             const sectionCategory = _findObjectWithId(_jsonData.categories, sectionCategoryId)
             const jsonPath = section['jsonPath']
+            const apiPath = section['apiEndpoint']
 
             if (!sectionCategory) {
                 throw new Error(`The section with id "${sectionId}" has an invalid categoryId "${sectionCategoryId}". There's no such category.`)
@@ -172,12 +174,21 @@ export function useData() {
 
             sectionCategory['sectionIds'] = sectionCategory['sectionIds'] || []
             sectionCategory['sectionIds'].push(sectionId)
+            const store = useEducationStore()
 
             if (utils.isStringAJSONUrl(jsonPath)) {
-                section['content'] = await _loadJson(jsonPath)
+                // if(sectionId !== 'education') {
+                    section['content'] = await _loadJson(jsonPath)
+                // }
             } else {
                 section['content'] = {}
             }
+
+            if(sectionId === 'education'){
+                section['content'] = store.education
+            }
+
+            await store.fetchEducation()
 
             _progressData.loadedFiles++
         }

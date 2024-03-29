@@ -47,7 +47,7 @@
               </div>
 
               <!-- Links SubSection -->
-              <div class="modal-subsection">
+              <div class="modal-subsection" v-if="false">
                 <!-- Title -->
                 <h5 class="d-inline-block fw-bold">
                   <i class="fa fa-external-link me-2"/>
