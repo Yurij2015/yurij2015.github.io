@@ -1,0 +1,200 @@
+{
+  "locales": {
+    "en": {
+      "title": "Career <span class='text-primary'>Achievements</span>",
+      "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
+    },
+    "es": {
+      "title": "Logros <span class='text-primary'>Profesionales</span>",
+      "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:"
+    },
+    "fr": {
+      "title": "Réalisations <span class='text-primary'>Professionnelles</span>",
+      "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:"
+    }
+  },
+  "subcategories": [
+    {
+      "id": "events",
+      "faIcon": "fa-solid fa-trophy",
+      "locales": {
+        "en": {
+          "title": "Events",
+          "buttonLabel": "More Info"
+        },
+        "es": {
+          "title": "Premios",
+          "buttonLabel": "Más Información"
+        },
+        "pl": {
+          "title": "Prix",
+          "buttonLabel": "Plus d'Infos"
+        }
+      }
+    },
+    {
+      "id": "certifications",
+      "faIcon": "fa-solid fa-award",
+      "locales": {
+        "en": {
+          "title": "Certifications",
+          "buttonLabel": "View Certification"
+        },
+        "ua": {
+          "title": "Certificaciones",
+          "buttonLabel": "Ver Certificación"
+        },
+        "pl": {
+          "title": "Certifications",
+          "buttonLabel": "Voir la Certification"
+        }
+      }
+    }
+  ],
+  "items": {
+    "events": [
+      {
+        "id": "graduation_project",
+        "place": "@link{places.websummit}",
+        "date": "2018/08",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Best Graduation Project",
+            "description": "Outstanding work on graduation project; recognized for innovation and impact."
+          },
+          "ua": {
+            "title": "Mejor Proyecto de Graduación",
+            "description": "Trabajo destacado en proyecto de graduación; reconocido por innovación e impacto."
+          },
+          "pl": {
+            "title": "Meilleur Projet de Fin d'Études",
+            "description": "Travail exceptionnel sur le projet de fin d'études; reconnu pour l'innovation et l'impact."
+          }
+        }
+      },
+      {
+        "id": "alumni_hackaton",
+        "place": "@link{places.websummit}",
+        "date": "2019/09",
+        "href": "https://harvard.com",
+        "locales": {
+          "en": {
+            "title": "2nd Place – Alumni UX Hackathon",
+            "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
+          },
+          "ua": {
+            "title": "2do Lugar - Hackathon Alumni de UX",
+            "description": "Obtuvo el 2do lugar en el Hackathon Alumni de UX de Harvard; demostró solución creativa de problemas."
+          },
+          "pl": {
+            "title": "2e Place - Hackathon UX des Anciens",
+            "description": "Obtenu la 2e place au hackathon UX des anciens de Harvard; démontré la résolution créative de problèmes."
+          }
+        }
+      },
+      {
+        "id": "adobe_jam",
+        "place": "@link{places.websummit}",
+        "date": "2020/11",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "1st Place – Adobe Creative Jam",
+            "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration."
+          },
+          "ua": {
+            "title": "1er Lugar - Adobe Creative Jam",
+            "description": "Obtuvo el 1er lugar en Adobe Creative Jam; mostró excelencia en diseño y colaboración."
+          },
+          "pl": {
+            "title": "1ère Place - Adobe Creative Jam",
+            "description": "Obtenu la 1ère place à Adobe Creative Jam; mis en avant l'excellence en design et la collaboration."
+          }
+        }
+      },
+      {
+        "id": "article_mention",
+        "place": "@link{places.websummit}",
+        "date": "2023/03",
+        "href": "https://forbes.com",
+        "locales": {
+          "en": {
+            "title": "Article Mention – UX Contribution",
+            "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights."
+          },
+          "ua": {
+            "title": "Mención en Artículo - Contribución a UX",
+            "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes."
+          },
+          "pl": {
+            "title": "Mention d'Article - Contribution UX",
+            "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes."
+          }
+        }
+      }
+    ],
+    "certifications": [
+      {
+        "id": "google_cert",
+        "place": "@link{places.websummit}",
+        "date": "2018/08",
+        "href": "https://google.com",
+        "locales": {
+          "en": {
+            "title": "SoffGroup WorpPress Certificate",
+            "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+          },
+          "ua": {
+            "title": "Certificación de Diseño UX de Google",
+            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario."
+          },
+          "pl": {
+            "title": "Certification Google UX Design",
+            "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur."
+          }
+        }
+      },
+      {
+        "id": "ui_nanodegree",
+        "place": "@link{places.websummit}",
+        "date": "2019/04",
+        "href": "https://udemy.com",
+        "locales": {
+          "en": {
+            "title": "Alevel PHP (Yii2) Certificate",
+            "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+          },
+          "ua": {
+            "title": "Nanogrado en UI/UX",
+            "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas."
+          },
+          "pl": {
+            "title": "Nanodiplôme UI/UX",
+            "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques."
+          }
+        }
+      },
+      {
+        "id": "material_cert",
+        "place": "@link{places.websummit}",
+        "date": "2020/06",
+        "href": "https://google.com",
+        "locales": {
+          "en": {
+            "title": "LinkekIn PHP (Laravel) Certificate",
+            "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+          },
+          "ua": {
+            "title": "Certificación de Material Design",
+            "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno."
+          },
+          "pl": {
+            "title": "Certification Material Design",
+            "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "locales": {
+    "en": {
+      "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+      "welcomeShort": "Welcome!",
+      "bio": "With 8 years of comprehensive experience as a FullStack PHP Developer, I have honed my skills in crafting both websites and robust web applications leveraging WordPress, alongside applications built with PHP frameworks such as Laravel, Symfony, and Yii2. My journey spans roles as a freelancer and entrepreneur, where direct engagement with clients seeking website solutions was pivotal. My portfolio is enriched with substantial contributions to large-scale product projects using Symfony, Laravel, and Yii2, showcasing my versatility across different development environments.<hr>I have been instrumental in the migration and updating of web application frameworks, including transitions from Symfony 5 to Symfony 6, Laravel 9 to Laravel 10, and Yii1 to Yii2, demonstrating my adaptability and commitment to staying at the forefront of technological advancements. My expertise extends to working in Docker environments and deploying applications on cloud platforms such as DigitalOcean, AWS, and Hostinger, ensuring scalable and efficient infrastructure management.<hr>My passion for the development process fuels my continual pursuit of excellence and skill enhancement in application development. I am driven by the desire to collaborate and innovate, eager to partner with like-minded individuals or teams. Together, we can craft remarkable and impactful digital solutions. Let's connect and turn our creative visions into reality."
+    },
+    "ua": {
+      "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+      "welcomeShort": "¡Saludos!",
+      "bio": "Маючи 8-річний досвід роботи FullStack PHP-розробником, я відточив свої навички у створенні як вебсайтів, так і надійних вебдодатків з використанням WordPress, а також додатків, побудованих на PHP-фреймворках, таких як Laravel, Symfony та Yii2. Мій шлях охоплює ролі фрилансер та підприємця, де безпосередня взаємодія з клієнтами, які шукають рішення для створення вебсайтів, була ключовою. Моє портфоліо збагачене значним внеском у великомасштабні проєкти з використанням Symfony, Laravel та Yii2, що демонструє мою універсальність у різних середовищах розробки.<hr>Я брав участь у міграції та оновленні фреймворків вебдодатків, включаючи перехід з Symfony 5 на Symfony 6, Laravel 9 на Laravel 10 та Yii1 на Yii2, демонструючи свою адаптивність та прагнення залишатися на передовій технологічного прогресу. Мій досвід поширюється на роботу в середовищі Docker та розгортання додатків на хмарних платформах, таких як DigitalOcean, AWS та Hostinger, забезпечуючи масштабоване та ефективне управління інфраструктурою.<hr>Моя пристрасть до процесу розробки підживлює моє постійне прагнення до досконалості та вдосконалення навичок у розробці додатків. Мною рухає бажання співпрацювати та впроваджувати інновації, я прагну співпрацювати з однодумцями або командами. Разом ми можемо створювати чудові та ефективні цифрові рішення. Об'єднаймось і втілимо наші творчі задуми в реальність.\n"
+    },
+    "pl": {
+      "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
+      "welcomeShort": "Bienvenue!",
+      "bio": "Dzięki 8-letniemu wszechstronnemu doświadczeniu jako FullStack PHP Developer, doskonaliłem swoje umiejętności w tworzeniu zarówno stron internetowych, jak i solidnych aplikacji internetowych wykorzystujących WordPress, a także aplikacji zbudowanych przy użyciu frameworków PHP, takich jak Laravel, Symfony i Yii2. Moja podróż obejmuje role freelancera i przedsiębiorcy, gdzie bezpośrednie zaangażowanie z klientami poszukującymi rozwiązań internetowych było kluczowe. Moje portfolio jest wzbogacone o znaczący wkład w duże projekty produktowe z wykorzystaniem Symfony, Laravel i Yii2, co pokazuje moją wszechstronność w różnych środowiskach programistycznych.<hr>Odegrałem kluczową rolę w migracji i aktualizacji frameworków aplikacji internetowych, w tym przejścia z Symfony 5 do Symfony 6, Laravel 9 do Laravel 10 i Yii1 do Yii2, demonstrując moje zdolności adaptacyjne i zaangażowanie w utrzymywanie się w czołówce postępu technologicznego. Moje doświadczenie rozciąga się na pracę w środowiskach Docker i wdrażanie aplikacji na platformach chmurowych, takich jak DigitalOcean, AWS i Hostinger, zapewniając skalowalne i wydajne zarządzanie infrastrukturą.<hr>Moja pasja do procesu rozwoju napędza moje ciągłe dążenie do doskonałości i doskonalenia umiejętności w zakresie tworzenia aplikacji. Kieruję się chęcią współpracy i innowacji, chętnie współpracując z podobnie myślącymi osobami lub zespołami. Razem możemy tworzyć niezwykłe i wpływowe rozwiązania cyfrowe. Połączmy się i przekształćmy nasze kreatywne wizje w rzeczywistość."
+    }
+  },
+  "items": {
+    "socialCircles": [
+      "@link{profile.contact.instagram}",
+      "@link{profile.contact.facebook}",
+      "@link{profile.contact.linkedin}",
+      "@link{profile.contact.github}",
+      "@link{profile.contact.telegram}"
+    ],
+    "contactListItems": [
+      "@link{profile.contact.address}",
+      "@link{profile.contact.email}",
+      "@link{profile.contact.phone}"
+    ]
+  }
+}

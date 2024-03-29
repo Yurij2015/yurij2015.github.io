@@ -1,0 +1,686 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Skill</span> Set",
+      "description": "Exploring and Expanding: Navigating My Growth in the Diverse Realm of Web Development. A showcase of the comprehensive skill set and abilities cultivated through mastering IT technologies and the practical execution of projects:"
+    },
+    "ua": {
+      "title": "Навички та <span class='text-primary'>вміння</span>",
+      "description": "Exploring and Expanding: Моє зростання у різноманітній сфері веброзробки. Демонстрація комплексного набору навичок і здібностей, розвинутих завдяки опановуванню ІТ-технологій та практичному виконанню проєктів:"
+    },
+    "pl": {
+      "title": "Umiejętności i  <span class='text-primary'>zdolności</span>",
+      "description": "Odkrywanie i rozwój: Mój rozwój w zróżnicowanej dziedzinie tworzenia stron internetowych. Zademonstrowanie wszechstronnego zestawu umiejętności i zdolności rozwiniętych poprzez naukę technologii IT i praktyczną realizację projektów.\n:"
+    }
+  },
+  "subcategories": [
+    {
+      "id": "abilities",
+      "type": "list",
+      "progress": null,
+      "faIcon": "fa-solid fa-square",
+      "locales": {
+        "en": {
+          "title": null
+        }
+      }
+    },
+    {
+      "id": "programming",
+      "type": "grid",
+      "progress": "number",
+      "faIcon": "fa fa-code",
+      "locales": {
+        "en": {
+          "title": "Programming"
+        },
+        "ua": {
+          "title": "Програмування"
+        },
+        "pl": {
+          "title": "Programowanie"
+        }
+      }
+    },
+    {
+      "id": "languages",
+      "type": "list",
+      "progress": {
+        "0": "beginner",
+        "20": "rookie",
+        "40": "intermediate",
+        "60": "advanced",
+        "80": "fluent",
+        "100": "native"
+      },
+      "faIcon": "fa fa-language",
+      "locales": {
+        "en": {
+          "title": "Languages"
+        },
+        "ua": {
+          "title": "Мови"
+        },
+        "pl": {
+          "title": "Języki"
+        }
+      }
+    },
+    {
+      "id": "extra",
+      "type": "grid",
+      "progress": null,
+      "faIcon": "fa fa-marker",
+      "locales": {
+        "en": {
+          "title": "Supplementary Skills"
+        },
+        "ua": {
+          "title": "Додаткові навички"
+        },
+        "pl": {
+          "title": "Umiejętności dodatkowe"
+        }
+      }
+    }
+  ],
+  "items": {
+    "abilities": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-server",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Server-Side Logic and Development",
+            "description": "Specializing in PHP programming, I excel at engineering intricate server-side logic and backend components crucial for web application functionality. My methodology integrates advanced programming concepts to forge systems that are both high-performing and scalable, laying a solid foundation for reliable and effective web solutions."
+          },
+          "ua": {
+            "title": "Логіка та розробка на стороні сервера",
+            "description": "Спеціалізуючись на програмуванні на PHP, я досягаю успіху в розробці складної логіки на стороні сервера та бекенд-компонентів, що мають вирішальне значення для функціональності веб-додатків. Моя методологія інтегрує передові концепції програмування для створення високопродуктивних і масштабованих систем, закладаючи міцний фундамент для надійних і ефективних веб-рішень."
+          },
+          "pl": {
+            "title": "Logika i rozwój po stronie serwera",
+            "description": "Specjalizuję się w programowaniu w języku PHP i potrafię tworzyć skomplikowaną logikę po stronie serwera oraz komponenty backendowe kluczowe dla funkcjonalności aplikacji internetowych. Moja metodologia integruje zaawansowane koncepcje programistyczne w celu tworzenia systemów, które są zarówno wydajne, jak i skalowalne, tworząc solidne podstawy dla niezawodnych i skutecznych rozwiązań internetowych."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-database",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Database Design and Optimization",
+            "description": "My expertise extends to designing and optimizing relational databases. Using tools such as DBeaver, MySQL Workbench, and phpMyAdmin, I am well versed in visual database modeling, database management and SQL query analysis, and creating dynamic web applications with robust data interaction."
+          },
+          "ua": {
+            "title": "Проектування та оптимізація баз даних",
+            "description": "Мій досвід поширюється на проектування та оптимізацію реляційних баз даних. Використовуючи такі інструменти, як DBeaver, MySQL Workbench та phpMyAdmin, я добре знаюся на візуальному моделюванні баз даних, управлінні базами даних та аналізі SQL-запитів, а також на створенні динамічних веб-додатків з надійною взаємодією з даними."
+          },
+          "pl": {
+            "title": "Mises en Page Réactives",
+            "description": "Moje doświadczenie obejmuje projektowanie i optymalizację relacyjnych baz danych. Korzystając z narzędzi takich jak DBeaver, MySQL Workbench i phpMyAdmin, jestem dobrze zorientowany w wizualnym modelowaniu baz danych, zarządzaniu bazami danych i analizie zapytań SQL, a także budowaniu dynamicznych aplikacji internetowych z solidną interakcją danych."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-cubes",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Framework Mastery",
+            "description": "My profound understanding of PHP frameworks such as Laravel, Symfony, and Yii2 increases development efficiency and product quality. I use PHP frameworks to ensure a modern, optimal and maintainable application architecture, thus adhering to web development best practices and ensuring that the final high-quality software is easily maintained, understood and modified."
+          },
+          "ua": {
+            "title": "Робота з фреймворками",
+            "description": "Моє глибоке розуміння PHP-фреймворків, таких як Laravel, Symfony та Yii2, підвищує ефективність розробки та якість продукту. Я використовую PHP-фреймворки для забезпечення сучасної, оптимальної та підтримуваної архітектури додатків, таким чином дотримуючись найкращих практик веб-розробки та гарантуючи, що кінцеве високоякісне програмне забезпечення легко підтримувати, розуміти та модифікувати."
+          },
+          "pl": {
+            "title": "Framework Mastery",
+            "description": "Moje dogłębne zrozumienie frameworków PHP, takich jak Laravel, Symfony i Yii2, zwiększa wydajność rozwoju i jakość produktu. Używam frameworków PHP, aby zapewnić nowoczesną, optymalną i łatwą w utrzymaniu architekturę aplikacji, przestrzegając w ten sposób najlepszych praktyk tworzenia stron internetowych i zapewniając, że końcowe oprogramowanie wysokiej jakości jest łatwe w utrzymaniu, zrozumieniu i modyfikacji."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-plug",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "API Development and Integration",
+            "description": "Participated in the development and integration of RESTful APIs, enabling interaction between application components for client-server applications and facilitating communication with external services and platforms. This expertise allows for the extension of web application functionalities, promotes enhanced interaction, and supports the creation of universal, interoperable solutions."
+          },
+          "ua": {
+            "title": "Розробка та інтеграція API",
+            "description": "Брав участь у розробці та інтеграції RESTful API, що забезпечує взаємодію між компонентами клієнт-серверних додатків і полегшує комунікацію із зовнішніми сервісами та платформами. Цей досвід дозволяє розширювати функціональність вебдодатків, сприяє покращенню взаємодії та підтримує створення універсальних, інтероперабельних рішень."
+          },
+          "pl": {
+            "title": "Rozwój i integracja API",
+            "description": "Uczestniczył w rozwoju i integracji interfejsów API RESTful, umożliwiając interakcję między komponentami aplikacji dla aplikacji klient-serwer oraz ułatwiając komunikację z zewnętrznymi usługami i platformami. Ta wiedza pozwala na rozszerzenie funkcjonalności aplikacji internetowych, promuje ulepszoną interakcję i wspiera tworzenie uniwersalnych, interoperacyjnych rozwiązań."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-code-branch",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Version Control and Collaboration",
+            "description": "Using a version control system like Git ensures effective management and utilization of the codebase. It documents changes meticulously and supports collaborative development, which is crucial for maintaining code integrity and project consistency."
+          },
+          "ua": {
+            "title": "Контроль версій та співпраця",
+            "description": "Використання системи контролю версій, такої як Git, забезпечує ефективне управління та використання кодової бази. Вона ретельно документує зміни та підтримує спільну розробку, що має вирішальне значення для збереження цілісності коду та узгодженості проєкту."
+          },
+          "pl": {
+            "title": "Kontrola wersji i współpraca",
+            "description": "Korzystanie z systemu kontroli wersji, takiego jak Git, zapewnia efektywne zarządzanie i wykorzystanie bazy kodu. Skrupulatnie dokumentuje zmiany i wspiera rozwój oparty na współpracy, co ma kluczowe znaczenie dla utrzymania integralności kodu i spójności projektu."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-sync-alt",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Continuous Integration and Deployment",
+            "description": "Experience in building CI/CD pipelines boosts project efficiency by optimizing the testing, build, and deployment phases. This automation facilitates faster deployment of updates and ensures consistency across environments. By automating these steps, a CI/CD pipeline enables more frequent and reliable software release cycles, allowing for the enhancement of software quality and the acceleration of updates or new feature delivery to users."
+          },
+          "ua": {
+            "title": "Безперервна інтеграція та розгортання",
+            "description": "Досвід побудови конвеєрів CI/CD підвищує ефективність проєкту шляхом оптимізації етапів тестування, збірки та розгортання. Така автоматизація сприяє швидшому розгортанню оновлень і забезпечує узгодженість між середовищами. Автоматизуючи ці етапи, конвеєр CI/CD уможливлює частіші та надійніші цикли випуску програмного забезпечення, що дозволяє підвищити якість програмного забезпечення та пришвидшити надання оновлень або нових функцій користувачам."
+          },
+          "pl": {
+            "title": "Ciągła integracja i wdrażanie",
+            "description": "Doświadczenie w tworzeniu potoków CI/CD zwiększa efektywność projektu poprzez optymalizację etapów testowania, kompilacji i wdrażania. Automatyzacja ta przyspiesza wdrażanie aktualizacji i gwarantuje jednolitość działania w różnych środowiskach. Dzięki automatyzacji tych etapów, potok CI/CD umożliwia realizację częstszych i bardziej niezawodnych cykli wydawania oprogramowania, co przyczynia się do podniesienia jakości oprogramowania i przyspieszenia dostarczania aktualizacji lub nowych funkcji użytkownikom."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-columns",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Agile and Scrum Methodologies",
+            "description": "When applying Agile and Scrum methodologies, a focus on flexibility, teamwork, and continuous improvement is favored. This approach allows for a quick response to changes, ensuring a dynamic and efficient development cycle that meets project goals and deadlines."
+          },
+          "ua": {
+            "title": "Agile та Scrum методології",
+            "description": "При застосуванні методологій Agile та Scrum перевага надається гнучкості, командній роботі та постійному вдосконаленню. Такий підхід дозволяє швидко реагувати на зміни, забезпечуючи динамічний та ефективний цикл розробки, який відповідає цілям та строкам проєкту."
+          },
+          "pl": {
+            "title": "Metodyki Agile i Scrum",
+            "description": "Podczas stosowania metodologii Agile i Scrum preferuje się skupienie na elastyczności, pracy zespołowej i ciągłym doskonaleniu. Takie podejście umożliwia szybką reakcję na zmiany, co zapewnia dynamiczny i efektywny cykl rozwoju, spełniający cele projektu i dotrzymujący terminów."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-tachometer-alt",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Performance Optimization",
+            "description": "When creating applications, significant attention is devoted to enhancing their performance through caching, optimizing queries, and streamlining structure. The applications developed are not only responsive but also scalable, providing clients with an efficient tool and ensuring an outstanding user experience for users."
+          },
+          "ua": {
+            "title": "Оптимізація продуктивності",
+            "description": "При створенні додатків значна увага приділяється підвищенню їх продуктивності за допомогою кешування, оптимізації запитів та вдосконалення структури. Розроблені додатки не лише швидко реагують на запити користувачів, але й легко масштабуються, надаючи клієнтам ефективний інструмент і забезпечуючи користувачам відмінний досвід використання."
+          },
+          "pl": {
+            "title": "Optymalizacja wydajności",
+            "description": "Podczas tworzenia aplikacji dużą uwagę poświęca się na zwiększenie ich wydajności poprzez buforowanie, optymalizację zapytań i usprawnienie struktury. Opracowane aplikacje są nie tylko responsywne, ale także skalowalne, co dostarcza klientom wydajnego narzędzia i zapewnia użytkownikom wyjątkowe doświadczenia."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-docker",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Docker",
+            "description": "Docker facilitates application hosting in containers, streamlining setup, migration, and deployment processes. It enables the creation of precise and convenient environment specifications for applications using Dockerfiles or docker-compose.yml configurations, significantly simplifying environment management and deployment workflows."
+          },
+          "ua": {
+            "title": "Docker",
+            "description": "Docker полегшує розміщення додатків у контейнерах, спрощуючи процеси налаштування, міграції та розгортання. Він дозволяє створювати точні та зручні специфікації середовища для додатків за допомогою Docker-файлів або конфігурацій docker-compose.yml, що значно спрощує керування середовищем та робочі процеси розгортання."
+          },
+          "pl": {
+            "title": "Docker",
+            "description": "Docker ułatwia hostowanie aplikacji w kontenerach, usprawniając procesy konfiguracji, migracji i wdrażania. Umożliwia tworzenie precyzyjnych i wygodnych specyfikacji środowiska dla aplikacji przy użyciu plików Dockerfiles lub konfiguracji docker-compose.yml, znacznie upraszczając zarządzanie środowiskiem i przepływy pracy związane z wdrażaniem."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-jira",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Jira",
+            "description": "The experience of using Jira for project management improves development workflow, increases team productivity, and increases project transparency through a more organized and efficient project tracking system."
+          },
+          "ua": {
+            "title": "Jira",
+            "description": "Досвід використання Jira для управління проектами покращує робочий процес розробки, підвищує продуктивність команди та збільшує прозорість проекту завдяки більш організованій та ефективній системі відстеження проектів."
+          },
+          "pl": {
+            "title": "Jira",
+            "description": "Korzystanie z systemu Jira do zarządzania projektami usprawnia przepływ pracy programistycznej, zwiększa produktywność zespołu i zwiększa przejrzystość projektu dzięki bardziej zorganizowanemu i wydajnemu systemowi śledzenia projektów.."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-cloud",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "DigitalOcean",
+            "description": "Using the DigitalOcean cloud infrastructure, applications are deployed and managed with a focus on scalability and reliability. This approach ensures efficient implementation and maintenance of web projects in a reliable hosting environment."
+          },
+          "ua": {
+            "title": "DigitalOcean",
+            "description": "Використовуючи хмарну інфраструктуру DigitalOcean, додатки розгортаються та управляються з акцентом на масштабованість та надійність. Такий підхід забезпечує ефективну реалізацію та підтримку вебпроєктів у надійному хостинговому середовищі."
+          },
+          "pl": {
+            "title": "DigitalOcean",
+            "description": "Korzystając z infrastruktury chmury DigitalOcean, aplikacje są wdrażane i zarządzane z naciskiem na skalowalność i niezawodność. Takie podejście zapewnia wydajne wdrażanie i utrzymywanie projektów internetowych w niezawodnym środowisku hostingowym."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-robot",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Puppeteer",
+            "description": "The Puppeteer experience automates browser-based tasks, streamlining web application testing and data extraction. This tool enhances user experience modeling and streamlines data extraction, thereby optimizing testing, development, and data acquisition processes."
+          },
+          "ua": {
+            "title": "Prototipado",
+            "description": "Puppeteer автоматизує завдання на основі браузера, спрощуючи тестування вебдодатків і вилучення даних. Цей інструмент покращує моделювання користувацького досвіду та впорядковує вилучення даних, оптимізуючи таким чином процеси тестування, розробки та збору даних."
+          },
+          "pl": {
+            "title": "Prototypage",
+            "description": "Doświadczenie Puppeteer automatyzuje zadania oparte na przeglądarce, usprawniając testowanie aplikacji internetowych i ekstrakcję danych. Narzędzie to usprawnia modelowanie doświadczeń użytkownika i ekstrakcję danych, optymalizując w ten sposób procesy testowania, rozwoju i pozyskiwania danych."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-terminal",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Command Line",
+            "description": "Command line skills greatly improve project navigation, scripting, and automation, optimizing the programming workflow. This experience allows you to quickly manipulate and efficiently perform tasks in various command-line-compatible environments, optimizing development processes."
+          },
+          "ua": {
+            "title": "Prototipado",
+            "description": "Навички роботи з командним рядком значно покращують навігацію по проєкту, написання сценаріїв та автоматизацію, оптимізуючи робочий процес програмування. Цей досвід дозволяє швидко маніпулювати та ефективно виконувати завдання в різних середовищах, сумісних з командним рядком, оптимізуючи процеси розробки."
+          },
+          "pl": {
+            "title": "Prototypage",
+            "description": "Umiejętności obsługi wiersza poleceń znacznie usprawniają nawigację po projekcie, tworzenie skryptów i automatyzację, optymalizując przepływ pracy programistycznej. Doświadczenie to pozwala szybko manipulować i wydajnie wykonywać zadania w różnych środowiskach kompatybilnych z wierszem poleceń, optymalizując procesy programistyczne."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-bug",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Xdebug",
+            "description": "Using Xdebug for PHP debugging provides comprehensive information about the program's behavior, code execution paths, and troubleshooting methods. This tool allows developers to accurately identify errors and fine-tune web applications, providing increased productivity when identifying and solving problems or implementing new features."
+          },
+          "ua": {
+            "title": "Xdebug",
+            "description": "Використання Xdebug для налагодження PHP надає вичерпну інформацію про поведінку програми, шляхи виконання коду та методи усунення несправностей. Цей інструмент дозволяє розробникам точно виявляти помилки та допрацьовувати вебдодатки, забезпечуючи підвищення продуктивності при виявленні та вирішенні проблем або впровадженні нових функцій."
+          },
+          "pl": {
+            "title": "Xdebug",
+            "description": "Używanie Xdebug do debugowania PHP dostarcza kompleksowych informacji o zachowaniu programu, ścieżkach wykonania kodu i metodach rozwiązywania problemów. Narzędzie to pozwala programistom dokładnie identyfikować błędy i dostrajać aplikacje internetowe, zapewniając zwiększoną produktywność podczas identyfikowania i rozwiązywania problemów lub wdrażania nowych funkcji."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-network-wired",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Postman",
+            "description": "The extensive use of Postman for API development, testing, and debugging ensures the creation of reliable and comprehensively documented APIs. This facilitates seamless integration and reliable interaction between applications, thereby strengthening the software infrastructure and optimizing development workflows."
+          },
+          "ua": {
+            "title": "Postman",
+            "description": "Широке використання Postman для розробки, тестування та налагодження API забезпечує створення надійних і всебічно задокументованих API. Це сприяє безперешкодній інтеграції та надійній взаємодії між додатками, тим самим зміцнюючи програмну інфраструктуру та оптимізуючи робочі процеси розробки."
+          },
+          "pl": {
+            "title": "Postman",
+            "description": "Szerokie wykorzystanie Postmana do tworzenia, testowania i debugowania API zapewnia tworzenie niezawodnych i kompleksowo udokumentowanych interfejsów API. Ułatwia to płynną integrację i niezawodną interakcję między aplikacjami, wzmacniając w ten sposób infrastrukturę oprogramowania i optymalizując przepływy pracy programistów.."
+          }
+        }
+      }
+    ],
+    "programming": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-php",
+        "value": 100,
+        "locales": {
+          "en": {
+            "title": "PHP",
+            "description": "Experience Time: 8 years"
+          },
+          "ua": {
+            "title": "Sass/Less",
+            "description": "Experiencia: 2 años"
+          },
+          "pl": {
+            "title": "Sass/Less",
+            "description": "Expérience : 2 ans"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-symfony",
+        "value": 75,
+        "locales": {
+          "en": {
+            "title": "Symfony",
+            "description": "Experience time: 3 year"
+          },
+          "ua": {
+            "title": "React",
+            "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"
+          },
+          "pl": {
+            "title": "React",
+            "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-laravel",
+        "value": 75,
+        "locales": {
+          "en": {
+            "title": "Laravel",
+            "description": "Experience time: 3 year"
+          },
+          "ua": {
+            "title": "React",
+            "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"
+          },
+          "pl": {
+            "title": "React",
+            "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-vuejs",
+        "value": 70,
+        "locales": {
+          "en": {
+            "title": "VueJS",
+            "description": "Experience Time: 2 years"
+          },
+          "ua": {
+            "title": "Vue 3",
+            "description": "Experiencia: 2 años"
+          },
+          "pl": {
+            "title": "Vue 3",
+            "description": "Expérience : 2 ans"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-js-square",
+        "value": 70,
+        "locales": {
+          "en": {
+            "title": "JavaScript",
+            "description": "Experience Time: 5 years"
+          },
+          "ua": {
+            "title": "Sass/Less",
+            "description": "Experiencia: 2 años"
+          },
+          "pl": {
+            "title": "Sass/Less",
+            "description": "Expérience : 2 ans"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-html5",
+        "value": 80,
+        "locales": {
+          "en": {
+            "title": "HTML 5 & CSS 3",
+            "description": "Experience Time: 5 years"
+          },
+          "ua": {
+            "title": "HTML 5",
+            "description": "Experiencia: 5 años"
+          },
+          "pl": {
+            "title": "HTML 5",
+            "description": "Expérience : 5 ans"
+          }
+        }
+      }
+    ],
+    "languages": [
+      {
+        "imageIconUrl": "images/flags/ua.svg",
+        "faIcon": null,
+        "value": 100,
+        "locales": {
+          "en": {
+            "title": "Ukrainian",
+            "description": "Native speaker with excellent communication and writing skills."
+          },
+          "ua": {
+            "title": "Inglés",
+            "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."
+          },
+          "pl": {
+            "title": "Anglais",
+            "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."
+          }
+        }
+      },
+      {
+        "imageIconUrl": "images/flags/en.png",
+        "faIcon": null,
+        "value": 50,
+        "locales": {
+          "en": {
+            "title": "English",
+            "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."
+          },
+          "ua": {
+            "title": "Vietnamita",
+            "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."
+          },
+          "pl": {
+            "title": "Vietnamien",
+            "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit."
+          }
+        }
+      }
+    ],
+    "extra": [
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "YouTrack",
+            "description": "Proficient in leveraging YouTrack for efficient project management and issue tracking. My adept use of YouTrack has enabled me to streamline workflow and ensure project milestones are met with precision. This expertise has been crucial in maintaining high productivity and meeting tight deadlines in a dynamic development environment."
+          },
+          "ua": {
+            "title": "Diseño de Interfaz de Usuario (UI)",
+            "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."
+          },
+          "pl": {
+            "title": "Design d'Interface Utilisateur (UI)",
+            "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Slack",
+            "description": "Effective communicator using Slack for real-time team collaboration and project coordination. My adeptness at integrating Slack with development workflows has fostered a culture of transparency and accessibility, ensuring all team members stay informed, connected, and aligned with project objectives."
+          },
+          "ua": {
+            "title": "Desarrollo Front-End",
+            "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."
+          },
+          "pl": {
+            "title": "Développement Front-End",
+            "description": "Capable de coder en VueJS, AngularJS et TypeScript."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Twig",
+            "description": "Skilled in employing Symfony Twig for sophisticated template design and rendering, allowing for clean, efficient, and maintainable code structures. My projects have benefited from Twig's flexible syntax and powerful inheritance features, enabling the creation of complex, data-driven web applications with ease and elegance."
+          },
+          "ua": {
+            "title": "Visualización de Información",
+            "description": "Capaz de transformar datos complejos en visuales claros."
+          },
+          "pl": {
+            "title": "Visualisation de l'Information",
+            "description": "Capable de transformer des données complexes en visuels clairs."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Tailwind CSS",
+            "description": "Proficient in applying Tailwind CSS, a utility-first CSS framework, to design responsive, mobile-first web applications. My expertise in Tailwind CSS has enabled rapid UI development with customizable design elements, ensuring visually appealing and highly functional user interfaces."
+          },
+          "ua": {
+            "title": "Accesibilidad y Diseño Inclusivo",
+            "description": "Capaz de crear experiencias digitales accesibles para todos."
+          },
+          "pl": {
+            "title": "Accessibilité et Design Inclusif",
+            "description": "Capable de créer des expériences numériques accessibles à tous."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Blade",
+            "description": "Expert in the Laravel Blade templating engine, utilizing its expressive and concise syntax to craft dynamic and interactive user interfaces. My ability to seamlessly integrate Blade views with Laravel's robust backend functionalities has resulted in highly responsive and visually appealing web applications, tailored to meet specific client needs."
+          },
+          "ua": {
+            "title": "Análisis de Datos Centrado en el Usuario",
+            "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
+          },
+          "pl": {
+            "title": "Analyse de Données Axée sur l'Utilisateur",
+            "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Bootstrap CSS",
+            "description": "Highly proficient with Bootstrap CSS, applying its responsive grid system and prebuilt components to expedite development processes. My expertise in adapting Bootstrap's extensive features has enabled the rapid prototyping and deployment of mobile-first websites and applications, ensuring optimal user experiences across all device sizes."
+          },
+          "ua": {
+            "title": "Experiencia de Usuario en Aplicaciones Móviles",
+            "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."
+          },
+          "pl": {
+            "title": "Expérience Utilisateur d'Applications Mobiles",
+            "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Vue Notus",
+            "description": "Expertise in Vue Notus, a premium Vue.js Tailwind CSS admin template that blends design and functionality for building rich user interfaces and admin areas. My proficiency with Vue Notus has led to the development of engaging, high-performance web applications that are both user-friendly and visually stunning."
+          },
+          "ua": {
+            "title": "Experiencia de Usuario en Aplicaciones Móviles",
+            "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."
+          },
+          "pl": {
+            "title": "Expérience Utilisateur d'Applications Mobiles",
+            "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Admin LTE",
+            "description": "Skilled in utilizing Admin LTE, a fully responsive administration template based on Bootstrap 4, to create powerful back-end panels and dashboards. My experience with Admin LTE has facilitated the development of comprehensive and intuitive admin interfaces, improving the management and analysis of application data."
+          },
+          "ua": {
+            "title": "Experiencia de Usuario en Aplicaciones Móviles",
+            "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."
+          },
+          "pl": {
+            "title": "Expérience Utilisateur d'Applications Mobiles",
+            "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."
+          }
+        }
+      }
+    ]
+  }
+}

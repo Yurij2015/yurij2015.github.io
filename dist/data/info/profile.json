@@ -1,0 +1,76 @@
+{
+  "name": "Yurii Mokryi",
+  "profilePictureUrl": "images/pictures/avatar.png",
+  "locales": {
+    "en": {
+      "credits": "Built with <strong><a class='light' href='#'>Vue 3</a></strong> and <strong><a class='light' href='#'>Laravel 10</a></strong>",
+      "role": " Full-Stack PHP Developer"
+    },
+    "ua": {
+      "credits": "Built with <strong><a class='light' href='#'>Vue 3</a></strong> and <strong><a class='light' href='#'>Laravel 10</a></strong>",
+      "role": " Full-Stack PHP Developer"
+    },
+    "pl": {
+      "credits": "Built with <strong><a class='light' href='#'>Vue 3</a></strong> and <strong><a class='light' href='#'>Laravel 10</a></strong>",
+      "role": " Full-Stack PHP Developer"
+    }
+  },
+  "contact": {
+    "address": {
+      "id": "address",
+      "value": "Poznań, Stęszew, PZ 62060",
+      "valueShort": "Poznań, PZ 62060",
+      "faIcon": "fa-solid fa-city",
+      "href": null
+    },
+    "email": {
+      "id": "email",
+      "value": "admin@digispace.com",
+      "valueShort": "admin@digispace.com",
+      "faIcon": "fa-solid fa-envelope",
+      "href": "mailto:admin@digispace.com"
+    },
+    "facebook": {
+      "id": "facebook",
+      "value": "Yurii Mokryi",
+      "valueShort": "Y. Mokryi",
+      "faIcon": "fa-brands fa-facebook",
+      "href": "https://www.facebook.com/yurii.mokryi"
+    },
+    "github": {
+      "id": "github",
+      "value": "@Yurij2015",
+      "valueShort": "@Yurij2015",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/Yurij2015"
+    },
+    "instagram": {
+      "id": "instagram",
+      "value": "@yurii_mokryi",
+      "valueShort": "@yurii_mokryi",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://instagram.com/yurii_mokryi"
+    },
+    "linkedin": {
+      "id": "linkedin",
+      "value": "@yurii-mokryi",
+      "valueShort": "@yurii-mokryi",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://linkedin.com/in/yurii-mokryi/"
+    },
+    "telegram": {
+      "id": "telegram",
+      "value": "@YuriiMokryi",
+      "valueShort": "@YuriiMokryi",
+      "faIcon": "fa-brands fa-telegram",
+      "href": "https://t.me/YuriiMokryi"
+    },
+    "phone": {
+      "id": "phone",
+      "value": "+48-571-865-188",
+      "valueShort": "+48-571-865-188",
+      "faIcon": "fa-solid fa-phone",
+      "href": "tel:485711865188"
+    }
+  }
+}
