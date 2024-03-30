@@ -5,7 +5,7 @@
       "description": "Check out my latest projects that showcase the capabilities and technologies of the applications I've worked with and am working on."
     },
     "ua": {
-      "title": "Моє <span class='text-primary'>портфоліщ</span>",
+      "title": "Моє <span class='text-primary'>портфоліо</span>",
       "description": "Ознайомтеся з моїми останніми проєктами, які демонструють можливості та технології додатків, з якими я працював і над якими працюю."
     },
     "pl": {
@@ -75,7 +75,7 @@
         ],
         "locales": {
           "en": {
-            "description": "<b>The DigiSpace Admin</b> panel is a comprehensive management interface developed using the latest technologies to provide a smooth and intuitive website administration process.<br>The administrative panel is based on Laravel 9, and the system provides a reliable and scalable internal structure. The choice of this PHP framework allows you to use modern and up-to-date programming approaches and the advantages of the MVC architectural pattern, which makes the development process efficient, clear, and convenient.<br>The frontend uses Vue 3, a progressive JavaScript framework known for its reactive components and ecosystem, which makes it easy to create rich user interfaces. <br>The admin panel interface is built using Tailwind CSS, a CSS framework that facilitates fast user interface development and allows for easy customization of the design system. Using Tailwind ensures that the design remains clean, responsive, and easy to maintain.<br>The inclusion of VueNotus, a Vue 3-based component library inspired by Notus and styled with Tailwind CSS, allows you to use beautifully designed elements, adding visual appeal and usability to the admin panel.<br>The main functionalities include CRUD operations: The panel provides a full set of CRUD (create, read, update, delete) functions for categories and posts, allowing for complete content management. Administrators can easily create new categories or posts, update content as needed, and delete posts that are no longer relevant.<br>Website widget management: A flexible widget management system allows you to manipulate site widgets, which makes it easy to customize the functionality and appearance of the site according to your needs.<br>Content organization: The panel allows you to easily manage categories, posts, and pages, providing an organized content structure and easy navigation for visitors.<br>Menu management: The panel includes comprehensive menu management that allows the administrator to customize site navigation to improve the user experience.Customize header and footer: The design and elements of the site's header and footer can be customized from the admin panel, providing the freedom to maintain branding consistency across the site.\n\nThe DigiSpace Admin Panel is DigiSpace's content management system for the website, providing hands-on management of the website and allowing administrators and moderators to focus on content creation.",
+            "description": "<b>The DigiSpace Admin</b> panel is a comprehensive management interface developed using the latest technologies to provide a smooth and intuitive website administration process.<br>The administrative panel is based on Laravel 9, and the system provides a reliable and scalable internal structure. The choice of this PHP framework allows you to use modern and up-to-date programming approaches and the advantages of the MVC architectural pattern, which makes the development process efficient, clear, and convenient.<br>The frontend uses Vue 3, a progressive JavaScript framework known for its reactive components and ecosystem, which makes it easy to create rich user interfaces. <br>The admin panel interface is built using Tailwind CSS, a CSS framework that facilitates fast user interface development and allows for easy customization of the design system. Using Tailwind ensures that the design remains clean, responsive, and easy to maintain.<br>The inclusion of VueNotus, a Vue 3-based component library inspired by Notus and styled with Tailwind CSS, allows you to use beautifully designed elements, adding visual appeal and usability to the admin panel.<br>The main functionalities include CRUD operations: The panel provides a full set of CRUD (create, read, update, delete) functions for categories and posts, allowing for complete content management. Administrators can easily create new categories or posts, update content as needed, and delete posts that are no longer relevant.<br>Website widget management: A flexible widget management system allows you to manipulate site widgets, which makes it easy to customize the functionality and appearance of the site according to your needs.<br>Content organization: The panel allows you to easily manage categories, posts, and pages, providing an organized content structure and easy navigation for visitors.<br>Menu management: The panel includes comprehensive menu management that allows the administrator to customize site navigation to improve the user experience.Customize header and footer: The design and elements of the site's header and footer can be customized from the admin panel, providing the freedom to maintain branding consistency across the site.<br>The DigiSpace Admin Panel is DigiSpace's content management system for the website, providing hands-on management of the website and allowing administrators and moderators to focus on content creation.",
 
             "tags": [
               "admin-panel",
@@ -96,7 +96,7 @@
             ]
           },
           "fr": {
-            "description": "Panel administracyjny <b>DigiSpace</b> to kompleksowy interfejs zarządzania opracowany przy użyciu najnowszych technologii w celu zapewnienia płynnego i intuicyjnego procesu administrowania witryną. <br>Panel administracyjny jest oparty na Laravel 9, system zapewnia niezawodną i skalowalną strukturę wewnętrzną. Wybór tego frameworka PHP pozwala na wykorzystanie nowoczesnych i aktualnych podejść programistycznych oraz zalet wzorca architektonicznego MVC, co sprawia, że proces rozwoju jest wydajny, przejrzysty i wygodny. <br>Frontend wykorzystuje Vue 3, progresywny framework JavaScript znany z reaktywnych komponentów i ekosystemu, który ułatwia tworzenie bogatych interfejsów użytkownika. <br>Interfejs panelu administracyjnego został zbudowany przy użyciu Tailwind CSS, frameworka CSS, który ułatwia szybkie tworzenie interfejsu użytkownika i pozwala na łatwe dostosowanie systemu projektowania.  Korzystanie z Tailwind zapewnia, że projekt pozostaje czysty, responsywny i łatwy w utrzymaniu.<br>Włączenie VueNotus, biblioteki komponentów opartej na Vue 3 inspirowanej Notus i stylizowanej za pomocą Tailwind CSS, pozwala na użycie pięknie zaprojektowanych elementów, dodając atrakcyjności wizualnej i użyteczności do panelu administracyjnego.<br>Główne funkcjonalności obejmują: <br> Operacje CRUD: Panel zapewnia pełny zestaw funkcji CRUD (tworzenie, odczyt, aktualizacja, usuwanie) dla kategorii i postów, umożliwiając pełne zarządzanie treścią. Administratorzy mogą łatwo tworzyć nowe kategorie lub posty, aktualizować zawartość w razie potrzeby i usuwać posty, które nie są już istotne.<br>Zarządzanie widżetami witryny: Elastyczny system zarządzania widżetami umożliwia manipulowanie widżetami witryny, co ułatwia dostosowanie funkcjonalności i wyglądu witryny do własnych potrzeb.\n\nOrganizacja treści: Panel umożliwia łatwe zarządzanie kategoriami, postami i stronami, zapewniając zorganizowaną strukturę treści i łatwą nawigację dla odwiedzających.\n\nZarządzanie menu: Panel zawiera kompleksowe zarządzanie menu, które pozwala administratorowi dostosować nawigację witryny w celu poprawy doświadczenia użytkownika.\n\nDostosowywanie nagłówka i stopki: Projekt i elementy nagłówka i stopki witryny można dostosować z poziomu panelu administracyjnego, zapewniając swobodę utrzymania spójności marki w całej witrynie.<br>Panel administracyjny DigiSpace to system zarządzania treścią witryny DigiSpace, zapewniający praktyczne zarządzanie witryną, umożliwiając administratorom i moderatorom skupienie się na tworzeniu treści.",
+            "description": "Panel administracyjny <b>DigiSpace</b> to kompleksowy interfejs zarządzania opracowany przy użyciu najnowszych technologii w celu zapewnienia płynnego i intuicyjnego procesu administrowania witryną. <br>Panel administracyjny jest oparty na Laravel 9, system zapewnia niezawodną i skalowalną strukturę wewnętrzną. Wybór tego frameworka PHP pozwala na wykorzystanie nowoczesnych i aktualnych podejść programistycznych oraz zalet wzorca architektonicznego MVC, co sprawia, że proces rozwoju jest wydajny, przejrzysty i wygodny. <br>Frontend wykorzystuje Vue 3, progresywny framework JavaScript znany z reaktywnych komponentów i ekosystemu, który ułatwia tworzenie bogatych interfejsów użytkownika. <br>Interfejs panelu administracyjnego został zbudowany przy użyciu Tailwind CSS, frameworka CSS, który ułatwia szybkie tworzenie interfejsu użytkownika i pozwala na łatwe dostosowanie systemu projektowania.  Korzystanie z Tailwind zapewnia, że projekt pozostaje czysty, responsywny i łatwy w utrzymaniu.<br>Włączenie VueNotus, biblioteki komponentów opartej na Vue 3 inspirowanej Notus i stylizowanej za pomocą Tailwind CSS, pozwala na użycie pięknie zaprojektowanych elementów, dodając atrakcyjności wizualnej i użyteczności do panelu administracyjnego.<br>Główne funkcjonalności obejmują: <br> Operacje CRUD: Panel zapewnia pełny zestaw funkcji CRUD (tworzenie, odczyt, aktualizacja, usuwanie) dla kategorii i postów, umożliwiając pełne zarządzanie treścią. Administratorzy mogą łatwo tworzyć nowe kategorie lub posty, aktualizować zawartość w razie potrzeby i usuwać posty, które nie są już istotne.<br>Zarządzanie widżetami witryny: Elastyczny system zarządzania widżetami umożliwia manipulowanie widżetami witryny, co ułatwia dostosowanie funkcjonalności i wyglądu witryny do własnych potrzeb.<br>Organizacja treści: Panel umożliwia łatwe zarządzanie kategoriami, postami i stronami, zapewniając zorganizowaną strukturę treści i łatwą nawigację dla odwiedzających.<br>Zarządzanie menu: Panel zawiera kompleksowe zarządzanie menu, które pozwala administratorowi dostosować nawigację witryny w celu poprawy doświadczenia użytkownika.<br>Dostosowywanie nagłówka i stopki: Projekt i elementy nagłówka i stopki witryny można dostosować z poziomu panelu administracyjnego, zapewniając swobodę utrzymania spójności marki w całej witrynie.<br>Panel administracyjny DigiSpace to system zarządzania treścią witryny DigiSpace, zapewniający praktyczne zarządzanie witryną, umożliwiając administratorom i moderatorom skupienie się na tworzeniu treści.",
             "tags": [
               "admin-panel",
               "manage",
@@ -123,30 +123,33 @@
         ],
         "locales": {
           "en": {
-            "description": "<b>InstAcc Panel</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
+            "description": "The <b>InstAcc Dashboard</b> is an advanced administrative interface tailored to enhance the management of Instagram profiles and streamline data retrieval. Engineered using Laravel, this tool provides a solid back-end structure that ensures top-notch performance and security. The interface, crafted with AdminLTE—an esteemed open-source admin theme—delivers a user-friendly experience that is both responsive and mobile-friendly.<br>Main Menu Features:<br>Profiles: A comprehensive overview section for all managed Instagram profiles, offering quick access to individual account management and the ability to integrate new profiles into the dashboard.<br>Search: An efficient search function enables administrators to locate Instagram profiles using keywords.<br>Search Results: Displays organized, keyword-specific search outcomes, complete with profile details and follower metrics.<br>IG Profile Lists: This analytical tool allows viewing of profile details from uploaded lists and access to in-depth data on profiles and their followers.<br>Add IG Profile List: Facilitates the creation of profile lists for analysis, which assists in expanding and segmenting profiles for targeted operations.<br>Task Management:<br>Get Followers Task: Monitors the progression of tasks assigned to gather data on profile followers.<br>Get Full Data Task: A feature for extracting comprehensive data from Instagram profiles to gain insights into user engagement and profile analytics.<br>Get AccsData from a List: Collects data from profiles within a selected list.<br>Customization Options:<br>Settings: A dedicated section for customizing data retrieval processes, including the configuration of profiles, request intervals and limits, task scheduling, status monitoring, and setting of communication with client applications.\nSaved IG Users:<br>Search and Filter: A specialized segment for organizing saved Instagram user profiles with advanced filtering to sort profiles by criteria (e.g., business or private profiles), aiding in the creation of targeted audience lists for marketing initiatives.",
             "tags": [
-              "app",
-              "organization",
-              "notes",
-              "productivity"
+              "social media dashboard",
+              "instagram",
+              "followers",
+              "advertising",
+              "target audience"
             ]
           },
-          "es": {
-            "description": "<b>InstAcc Panel</b> es tu aplicación todo en uno para la organización y la toma de notas, diseñada para optimizar tu vida digital. Con su integración perfecta de gestión de tareas, organización de notas y almacenamiento en la nube, Stackers te ayuda a mantener la organización y la productividad. Crea listas de tareas, apunta ideas y sincroniza tus notas en todos tus dispositivos sin esfuerzo. Ya seas estudiante, profesional o cualquier persona que busque un espacio de trabajo digital sin desorden, Stackers está aquí para elevar tu juego organizativo.",
+          "ua": {
+            "description": "<b>InstAcc Dashboard</b> - це адміністративний інтерфейс, створений для оптимізації управління профілями Instagram та полегшення пошуку за ключовими словами. Розроблений з використанням Laravel, інструмент надає міцну бек-енд архітектуру для забезпечення високої продуктивності та безпеки. Для інтерфейсу використовується AdminLTE, популярний відкритий шаблон адміністративної панелі, який забезпечує зручність використання та адаптацію до мобільних пристроїв.<br>Основне меню:<br>Profiles: Огляд всіх керованих Instagram-профілів із можливістю швидкого доступу для управління ними та інтеграції нових профілів.<br>Search: Пошукова система, що дозволяє адміністраторам швидко знаходити Instagram-профілі за ключовими словами.<br>Search Results: Показує впорядковані результати пошуку з детальною інформацією про профілі та їх підписників.<br>IG Profile Lists: Аналітичний інструмент для перегляду та отримання розширеної інформації про профілі і їхніх підписників із завантажених списків.<br>Add IG Profile List: Функція для створення списків профілів, яка допомагає в розширенні та сегментуванні профілів для спеціалізованих завдань.<br>Управління завданнями:<br>Get Followers Task: Відстежування прогресу завдань зі збору інформації про підписників профілів.<br>Get Full Data Task: Функція екстракції повного набору даних з Instagram-профілів для аналізу активності користувачів та статистики профілів.<br>Get AccsData from a List: Збір даних з профілів, що включені до вибраного списку.<br>Налаштування:<br>Settings: Розділ для налаштування процесів збору даних, включно з конфігурацією профілів, налаштуванням інтервалів та лімітів запитів, плануванням завдань, моніторингом статусу завдань та зв'язку з клієнтськими програмами.\nЗбережені користувачі IG:<br>Search and Filter: Спеціалізований сегмент для сортування збережених профілів Instagram з використанням розширеного фільтра за критеріями, що дозволяє створювати цільові аудиторії для маркетингових кампаній.",
             "tags": [
-              "aplicación",
-              "organización",
-              "notas",
-              "productividad"
+              "social media dashboard",
+              "instagram",
+              "followers",
+              "advertising",
+              "target audience"
             ]
           },
-          "fr": {
-            "description": "<b>InstAcc Panel</b> est votre application tout-en-un pour l'organisation et la prise de notes, conçue pour simplifier votre vie numérique. Grâce à son intégration transparente de la gestion des tâches, de l'organisation des notes et du stockage cloud, Stackers vous aide à rester organisé et productif. Créez des listes de tâches, notez vos idées et synchronisez vos notes sur tous vos appareils en toute simplicité. Que vous soyez étudiant, professionnel ou toute personne recherchant un espace de travail numérique sans encombrement, Stackers est là pour élever votre niveau d'organisation.",
+          "pl": {
+            "description": "<b>InstAcc Dashboard</b> to zaawansowany interfejs administracyjny stworzony w celu ułatwienia zarządzania profilami Instagrama i efektywnego wyszukiwania informacji. Zbudowany na fundamencie Laravela, zapewnia mocną architekturę zaplecza, co gwarantuje wysoką wydajność i bezpieczeństwo. Wykorzystano AdminLTE – popularny, otwarty szablon dla paneli administracyjnych – aby stworzyć responsywny, przyjazny dla urządzeń mobilnych interfejs użytkownika.<br>Menu Główne:<br>Profile: Sekcja prezentuje wszystkie zarządzane profile Instagrama, umożliwiając szybki dostęp do zarządzania nimi oraz dodawania nowych kont do systemu.<br>Wyszukiwanie: Funkcja wyszukiwania pozwala administratorom na szybkie odnajdywanie profili Instagrama za pomocą słów kluczowych.<br>Wyniki wyszukiwania: Sekcja wyświetla uporządkowane wyniki wyszukiwania, włącznie ze szczegółami poszczególnych profili i danych o obserwujących.<br>Listy profili IG: Analiza list profili IG umożliwia przeglądanie szczegółów profili i dostęp do rozbudowanych danych o profilach i ich obserwujących.<br>Dodaj listę profili IG: Funkcja ułatwia tworzenie i segmentację list profili w celu przeprowadzania celowanych analiz.<br>Zarządzanie Zadaniami:<br>Zadania Pobierania Obserwujących (Get Followers Tasks): Monitoring postępu zadań dotyczących gromadzenia danych o obserwujących danych profili.<br>Zadania Pobierania Pełnych Danych (Get Full Data Tasks): Funkcja pozwalająca na ekstrakcję kompletnych danych z profili Instagrama, zapewniająca dogłębne analizy aktywności użytkowników i statystyk profilu.<br>Pobieranie Danych z Listy (Get AccsData from a List): Pozyskiwanie danych z profili zawartych w wybranej liście.<br>Personalizacja:<br>Ustawienia: Sekcja dedykowana konfiguracji procesu pozyskiwania danych, w tym ustalania profilów roboczych, interwałów i limitów zapytań, harmonogramowania zadań, monitorowania stanu zadań oraz ustawień hosta komunikującego się z aplikacją klienta.\nZapisani Użytkownicy IG:<br>Szukaj i Filtruj: Funkcja umożliwiająca zaawansowane filtrowanie i sortowanie zapisanych profili użytkowników Instagrama według określonych kryteriów (np. profile biznesowe, zawodowe, prywatne), co wspiera tworzenie celowanych list odbiorców do kampanii reklamowych.",
             "tags": [
-              "application",
-              "organisation",
-              "notes",
-              "productivité"
+              "social media dashboard",
+              "instagram",
+              "followers",
+              "advertising",
+              "target audience"
             ]
           }
         }
@@ -175,7 +178,7 @@
               "productivity"
             ]
           },
-          "es": {
+          "ua": {
             "description": "<b>Stats Panel</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
             "tags": [
               "aplicación",
@@ -184,7 +187,7 @@
               "productividad"
             ]
           },
-          "fr": {
+          "pl": {
             "description": "<b>Stats Panel</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
             "tags": [
               "application",
@@ -221,7 +224,7 @@
               "budget"
             ]
           },
-          "es": {
+          "ua": {
             "description": "<b>Yuriev Sad</b> es tu compañero inteligente para las finanzas personales, permitiéndote tomar el control de tu dinero sin esfuerzo. Con su interfaz fácil de usar, SmartCash proporciona un seguimiento en tiempo real de tus gastos e ingresos, lo que te permite identificar patrones de gasto y tomar decisiones financieras informadas. Mantente al tanto de tu presupuesto, ya que SmartCash ofrece recomendaciones personalizadas para ahorrar dinero y alcanzar tus objetivos financieros sin comprometer tu estilo de vida.",
             "tags": [
               "aplicación",
@@ -229,7 +232,7 @@
               "dinero"
             ]
           },
-          "fr": {
+          "pl": {
             "description": "<b>Yuriev Sad</b> est votre compagnon intelligent pour les finances personnelles, vous permettant de prendre le contrôle de votre argent sans effort. Avec son interface conviviale, SmartCash offre un suivi en temps réel de vos dépenses et de vos revenus, vous permettant d'identifier les habitudes de dépenses et de prendre des décisions financières éclairées. Restez maître de votre budget, car SmartCash propose des recommandations personnalisées pour économiser de l'argent et atteindre vos objectifs financiers sans compromettre votre style de vie.",
             "tags": [
               "application",
@@ -262,7 +265,7 @@
               "camera"
             ]
           },
-          "es": {
+          "ua": {
             "description": "<b>StudHouse Agency</b> es tu aplicación definitiva de fotografía, que te permite capturar y editar imágenes impresionantes sin esfuerzo. Con su interfaz intuitiva, Snappy ofrece una amplia gama de herramientas y filtros poderosos para mejorar tus fotos y potenciar tu creatividad. Ya seas un fotógrafo profesional o simplemente un aficionado, Snappy ofrece funciones como controles manuales, opciones de edición avanzadas y mejoras impulsadas por inteligencia artificial para llevar tu fotografía al siguiente nivel.",
             "tags": [
               "aplicación",
@@ -270,7 +273,7 @@
               "cámara"
             ]
           },
-          "fr": {
+          "pl": {
             "description": "<b>StudHouse Agency</b> est votre application ultime de photographie, vous permettant de capturer et d'éditer des images époustouflantes sans effort. Avec son interface intuitive, Snappy propose une large gamme d'outils puissants et de filtres pour améliorer vos photos et stimuler votre créativité. Que vous soyez un photographe professionnel ou simplement un amateur, Snappy offre des fonctionnalités telles que les commandes manuelles, les options d'édition avancées et les améliorations alimentées par l'IA pour pousser votre photographie à un niveau supérieur.",
             "tags": [
               "application",
@@ -303,7 +306,7 @@
               "recipes"
             ]
           },
-          "es": {
+          "ua": {
             "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>DigiSpace Website</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
             "tags": [
               "aplicación",
@@ -312,7 +315,7 @@
               "recetas"
             ]
           },
-          "fr": {
+          "pl": {
             "description": "Indulgez-vous dans le monde des desserts délectables avec <b>DigiSpace Website</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
             "tags": [
               "application",
@@ -349,7 +352,7 @@
               "goalie"
             ]
           },
-          "es": {
+          "ua": {
             "description": "<b>InstBot</b> es tu aplicación de referencia para encontrar y conectarte con porteros en tu área. Ya sea que estés organizando un partido de hockey improvisado o necesites un portero para la sesión de práctica de tu equipo, esta aplicación facilita la búsqueda de porteros disponibles, ver sus perfiles y enviar mensajes directos para colaborar. ¡Ponte los pads y deja que <b>Find a Goalie</b> te ayude a mantener la portería cubierta!",
             "tags": [
               "aplicación",
@@ -358,7 +361,7 @@
               "portero"
             ]
           },
-          "fr": {
+          "pl": {
             "description": "<b>InstBot</b> est votre application incontournable pour trouver et entrer en contact avec des gardiens de but de votre région. Que vous organisiez un match de hockey improvisé ou ayez besoin d'un gardien pour la séance d'entraînement de votre équipe, cette application facilite la recherche de gardiens de but disponibles, la consultation de leurs profils et l'envoi de messages directs pour la collaboration. Enfilez les pads et laissez <b>Find a Goalie</b> vous aider à garder le filet protégé !",
             "tags": [
               "application",
@@ -393,7 +396,7 @@
               "entertainment"
             ]
           },
-          "es": {
+          "ua": {
             "description": "¡Adéntrate en el electrizante mundo de la música rock con <b>Telegram ChatBot</b>! Esta aplicación es un refugio para los entusiastas del rock, ofreciendo una amplia colección de canciones de rock clásicas y modernas, listas de reproducción seleccionadas y contenido detrás de escena. Ya seas un fanático acérrimo o estés descubriendo el género, <b>RockVerse</b> te acerca al corazón y alma del rock and roll. ¡Sube el volumen y deja que el espíritu del rock 'n' roll se desate!",
             "tags": [
               "aplicación",
@@ -402,7 +405,7 @@
               "entretenimiento"
             ]
           },
-          "fr": {
+          "pl": {
             "description": "Plongez dans le monde électrisant de la musique rock avec <b>RockVerse</b> ! Cette application est un paradis pour les amateurs de rock, offrant une vaste collection de pistes rock classiques et modernes, des listes de lecture sélectionnées et du contenu en coulisses. Que vous soyez un fan inconditionnel ou que vous découvriez simplement le genre, <b>RockVerse</b> vous rapproche du cœur et de l'âme du rock 'n' roll. Montez le volume et laissez l'esprit du rock 'n' roll s'exprimer !",
             "tags": [
               "application",
