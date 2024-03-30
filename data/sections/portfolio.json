@@ -399,30 +399,30 @@
         ],
         "locales": {
           "en": {
-            "description": "Step into the electrifying world of rock music with <b>Telegram ChatBot</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
+            "description": "<b>Telegram ChatBot</b> is a communication solution designed to bridge the gap between website owners and their visitors. Developed using PHP and the Telegram Bot API, this chatbot can be easily integrated into websites, offering users a direct line to contact site operators or support teams via the popular Telegram communication platform.<br><br>Technical basis:<br><br>PHP: Serves as the basis of the chatbot, facilitating the creation of server-side scripts to process requests and responses between the website and the Telegram API.\nTelegram Bot API: Used to create and manage a bot, providing a real-time messaging function.\nBotFather: A Telegram bot used to create and configure a chatbot, including setting commands and configuring parameters.<br><br>Main features:<br><br>Real-time communication: Allows website users to instantly send messages to website managers directly via Telegram, ensuring fast and efficient communication.\nUser-friendly interface: Integrated into the website, it provides users with a familiar and convenient way to send messages without having to leave the site.\nAutomatic replies: Equipped with the ability to automatically respond to common queries, it increases user comfort and reduces response time.\nCustom commands: Customized with BotFather to understand and respond to specific commands, making interaction more intuitive and efficient.<br><br>The chatbot is available online through a special widget or link that allows users to connect to the network. Once the user connects, the chatbot seamlessly maintains the conversation via Telegram, providing real-time notifications and responses from the designated Telegram account on the website. This system not only increases user engagement, but also provides a modern approach to customer service and support:<br><br>",
             "tags": [
-              "app",
-              "music",
-              "rock",
-              "entertainment"
+              "telegram",
+              "chat-bot",
+              "communication",
+              "widget"
             ]
           },
           "ua": {
-            "description": "¡Adéntrate en el electrizante mundo de la música rock con <b>Telegram ChatBot</b>! Esta aplicación es un refugio para los entusiastas del rock, ofreciendo una amplia colección de canciones de rock clásicas y modernas, listas de reproducción seleccionadas y contenido detrás de escena. Ya seas un fanático acérrimo o estés descubriendo el género, <b>RockVerse</b> te acerca al corazón y alma del rock and roll. ¡Sube el volumen y deja que el espíritu del rock 'n' roll se desate!",
+            "description": "<b>Telegram ChatBot</b> - це комунікаційне рішення, призначене для подолання розриву між власниками веб-сайтів та їхніми відвідувачами. Розроблений за допомогою PHP та API Telegram Bot, цей чат-бот легко інтегрується на веб-сайти, пропонуючи користувачам пряму лінію для зв'язку з операторами сайту або командами підтримки через популярну комунікаційну платформу Telegram.<br><br>Технічна основа:<br><br>PHP: Служить основою чат-бота, полегшуючи створення серверних скриптів для обробки запитів і відповідей між веб-сайтом і Telegram API.\nTelegram Bot API: Використовується для створення та управління ботом, забезпечуючи функцію обміну повідомленнями в режимі реального часу.\nBotFather: Telegram-бот, який використовується для створення та налаштування чат-бота, включаючи встановлення команд та налаштування параметрів.<br><br>Основні можливості:<br><br>Спілкування в режимі реального часу: Дозволяє користувачам сайту миттєво надсилати повідомлення менеджерам сайту безпосередньо через Telegram, забезпечуючи швидку та ефективну комунікацію.\nЗручний інтерфейс: Інтегрований у веб-сайт, надає користувачам звичний і зручний спосіб надсилання повідомлень без необхідності залишати сайт.\nАвтоматичні відповіді: Завдяки можливості автоматично відповідати на типові запити підвищує комфорт користувачів і скорочує час відповіді.\nКастомні команди: Налаштований за допомогою BotFather для розуміння та реагування на конкретні команди, що робить взаємодію більш інтуїтивно зрозумілою та ефективною.<br><br>Чат-бот доступний онлайн через спеціальний віджет або посилання, яке дозволяє користувачам підключатися до мережі. Як тільки користувач підключається, чат-бот безперешкодно підтримує розмову через Telegram, надаючи в реальному часі повідомлення та відповіді з вказаного на сайті Telegram-акаунта. Ця система не тільки підвищує залученість користувачів, але й забезпечує сучасний підхід до обслуговування та підтримки клієнтів:<br><br>",
             "tags": [
-              "aplicación",
-              "música",
-              "rock",
-              "entretenimiento"
+              "telegram",
+              "chat-bot",
+              "communication",
+              "widget"
             ]
           },
           "pl": {
-            "description": "Plongez dans le monde électrisant de la musique rock avec <b>RockVerse</b> ! Cette application est un paradis pour les amateurs de rock, offrant une vaste collection de pistes rock classiques et modernes, des listes de lecture sélectionnées et du contenu en coulisses. Que vous soyez un fan inconditionnel ou que vous découvriez simplement le genre, <b>RockVerse</b> vous rapproche du cœur et de l'âme du rock 'n' roll. Montez le volume et laissez l'esprit du rock 'n' roll s'exprimer !",
+            "description": "<b>Telegram ChatBot</b> to rozwiązanie komunikacyjne zaprojektowane w celu wypełnienia luki między właścicielami witryn a ich użytkownikami. Opracowany przy użyciu PHP i Telegram Bot API, ten chatbot może być łatwo zintegrowany ze stronami internetowymi, oferując użytkownikom bezpośrednią linię do kontaktu z operatorami stron lub zespołami wsparcia za pośrednictwem popularnej platformy komunikacyjnej Telegram.<br><br>Podstawy techniczne:<br><br>PHP: Służy jako podstawa chatbota, ułatwiając tworzenie skryptów po stronie serwera do przetwarzania żądań i odpowiedzi między stroną internetową a Telegram API.\nTelegram Bot API: Służy do tworzenia i zarządzania botem, zapewniając funkcję przesyłania wiadomości w czasie rzeczywistym.\nBotFather: Bot Telegram służący do tworzenia i konfigurowania chatbota, w tym ustawiania poleceń i konfigurowania parametrów.<br><br>Główne funkcje:<br><br>Komunikacja w czasie rzeczywistym: Umożliwia użytkownikom witryny natychmiastowe wysyłanie wiadomości do menedżerów witryny bezpośrednio przez Telegram, zapewniając szybką i wydajną komunikację.\nPrzyjazny dla użytkownika interfejs: Zintegrowany ze stroną internetową, zapewnia użytkownikom znajomy i wygodny sposób wysyłania wiadomości bez konieczności opuszczania strony.\nAutomatyczne odpowiedzi: Możliwość automatycznego odpowiadania na typowe zapytania zwiększa komfort użytkowników i skraca czas odpowiedzi.\nNiestandardowe polecenia: Skonfigurowany z BotFather, aby rozumieć i odpowiadać na określone polecenia, dzięki czemu interakcja jest bardziej intuicyjna i wydajna.<br><br>Chatbot jest dostępny online za pośrednictwem specjalnego widżetu lub linku, który pozwala użytkownikom połączyć się z siecią. Gdy tylko użytkownik się połączy, chatbot płynnie prowadzi rozmowę za pośrednictwem Telegramu, dostarczając w czasie rzeczywistym wiadomości i odpowiedzi z konta Telegram określonego na stronie internetowej. System ten nie tylko zwiększa zaangażowanie użytkowników, ale także zapewnia nowoczesne podejście do obsługi klienta i wsparcia:<br><br>",
             "tags": [
-              "application",
-              "musique",
-              "rock",
-              "divertissement"
+              "telegram",
+              "chat-bot",
+              "communication",
+              "widget"
             ]
           }
         }
