@@ -2,15 +2,15 @@
   "locales": {
     "en": {
       "title": "<span class='text-primary'>Hobbies</span> & Interests",
-      "description": "This is pretty much how I spend my free time:"
+      "description": "Actions and activities I like to do in my free time:"
     },
     "ua": {
-      "title": "<span class='text-primary'>Pasatiempos</span> e Intereses",
-      "description": "Así es más o menos cómo paso mi tiempo libre:"
+      "title": "<span class='text-primary'>Хоббі</span> та інтереси",
+      "description": "Дії та заняття, якими я люблю займатися у вільний час:"
     },
     "pl": {
-      "title": "<span class='text-primary'>Loisirs</span> et Intérêts",
-      "description": "C'est à peu près ainsi que je passe mon temps libre:"
+      "title": "<span class='text-primary'>Hobby</span> i zainteresowania",
+      "description": "Czynności i zajęcia, które lubię wykonywać w wolnym czasie:"
     }
   },
   "subcategories": [

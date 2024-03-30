@@ -1,33 +1,33 @@
 {
   "locales": {
     "en": {
-      "title": "Career <span class='text-primary'>Achievements</span>",
-      "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
+      "title": "Events and <span class='text-primary'>Certificates</span>",
+      "description": "My path as a PHP developer is characterized by constant development and self-improvement. Along the way, I attended various online and offline events, as well as received certificates of participation and completion of training programs:"
     },
-    "es": {
-      "title": "Logros <span class='text-primary'>Profesionales</span>",
-      "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:"
+    "ua": {
+      "title": "Заходи та <span class='text-primary'>сертифікати</span>",
+      "description": "Мій шлях PHP-розробника характеризується постійним розвитком та самовдосконаленням. На цьому шляху я відвідував різні онлайн і офлайн заходи, а також отримував сертифікати про участь і проходження навчальних програм:"
     },
-    "fr": {
-      "title": "Réalisations <span class='text-primary'>Professionnelles</span>",
-      "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:"
+    "pl": {
+      "title": "Wydarzenia i <span class='text-primary'>certyfikaty</span>",
+      "description": "Moja ścieżka jako programisty PHP charakteryzuje się ciągłym rozwojem i samodoskonaleniem. Po drodze uczestniczyłem w różnych wydarzeniach online i offline, a także otrzymałem certyfikaty uczestnictwa i ukończenia programów szkoleniowych:"
     }
   },
   "subcategories": [
     {
       "id": "events",
-      "faIcon": "fa-solid fa-trophy",
+      "faIcon": "fab fa-meetup",
       "locales": {
         "en": {
           "title": "Events",
           "buttonLabel": "More Info"
         },
-        "es": {
-          "title": "Premios",
+        "ua": {
+          "title": "Заходи",
           "buttonLabel": "Más Información"
         },
         "pl": {
-          "title": "Prix",
+          "title": "Wydarzenia",
           "buttonLabel": "Plus d'Infos"
         }
       }
@@ -37,15 +37,15 @@
       "faIcon": "fa-solid fa-award",
       "locales": {
         "en": {
-          "title": "Certifications",
+          "title": "Certificates",
           "buttonLabel": "View Certification"
         },
         "ua": {
-          "title": "Certificaciones",
+          "title": "Сертифікати",
           "buttonLabel": "Ver Certificación"
         },
         "pl": {
-          "title": "Certifications",
+          "title": "Certyfikaty",
           "buttonLabel": "Voir la Certification"
         }
       }
