@@ -220,26 +220,28 @@
           "en": {
             "description": "The <b>Yuriev Sad</b>  Nursery website, developed on the robust WordPress platform and enhanced with the WooCommerce plugin, offers an online catalog for a vast array of fruit and berry tree seedlings. Situated in Ukraine, YurievSad prides itself on delivering superior-quality seedlings, from apple to peach trees, catering to gardening aficionados, professional landscapers, and agricultural firms seeking top-notch planting materials. The website's design, leveraging a WordPress template, is customized with unique elements that mirror YurievSad brand identity, coupled with an intuitive interface to streamline user navigation through its extensive catalog.<br>E-commerce integration through WooCommerce equips the site with an advanced, secure shopping experience, from selection through checkout, enriched with detailed seedling descriptions. Acknowledging the diverse array of internet-access devices, the site's responsive design guarantees an optimal viewing experience across desktops, smartphones, and tablets, enhancing accessibility and engaging a wider audience.",
             "tags": [
-              "app",
-              "finance",
-              "money",
-              "budget"
+              "web-site",
+              "nursery",
+              "woocommerce",
+              "wordpress"
             ]
           },
           "ua": {
             "description": "Веб-сайт розсадника <b>Yuriev Sad</b>, розроблений на надійній платформі WordPress та доповнений плагіном WooCommerce, пропонує онлайн-каталог широкого асортименту саджанців фруктових та ягідних дерев. Розташований в Україні, 'YurievSad' пишається тим, що постачає високоякісні саджанці від яблуні до персика, обслуговуючи любителів садівництва, професійних ландшафтних дизайнерів та сільськогосподарські фірми, які шукають першокласний посадковий матеріал. Дизайн веб-сайту, створений на основі шаблону WordPress, містить унікальні елементи, що відображають фірмовий стиль 'YurievSad', а також інтуїтивно зрозумілий інтерфейс, який спрощує навігацію користувача по великому каталогу.<br>Інтеграція електронної комерції через WooCommerce надає сайту просунутий, безпечний досвід покупок, від вибору до оформлення замовлення, збагачений детальними описами саджанців. Враховуючи різноманітність пристроїв доступу до Інтернету, адаптивний дизайн сайту гарантує оптимальний досвід перегляду на настільних комп'ютерах, смартфонах і планшетах, підвищуючи доступність і залучаючи ширшу аудиторію.",
             "tags": [
-              "aplicación",
-              "finanzas",
-              "dinero"
+              "web-site",
+              "nursery",
+              "woocommerce",
+              "wordpress"
             ]
           },
           "pl": {
             "description": " Opracowana na solidnej platformie WordPress i wzbogacona o wtyczkę WooCommerce, strona internetowa szkółki <b>Yuriev Sad</b> oferuje katalog online szerokiej gamy sadzonek drzew owocowych i jagodowych. Zlokalizowana na Ukrainie firma YurievSad szczyci się dostarczaniem wysokiej jakości sadzonek od jabłoni po brzoskwinie, służąc entuzjastom ogrodnictwa, profesjonalnym architektom krajobrazu i firmom rolniczym poszukującym najwyższej klasy materiału do sadzenia. Projekt strony, oparty na szablonie WordPress, zawiera unikalne elementy, które odzwierciedlają tożsamość korporacyjną YurievSad, a także intuicyjny interfejs, który upraszcza nawigację użytkownika po obszernym katalogu.<br>Integracja e-commerce za pośrednictwem WooCommerce zapewnia stronie zaawansowane, bezpieczne zakupy, od wyboru do kasy, wzbogacone o szczegółowe opisy sadzonek. Biorąc pod uwagę różnorodność urządzeń dostępu do Internetu, responsywny projekt strony gwarantuje optymalne wrażenia podczas przeglądania na komputerach stacjonarnych, smartfonach i tabletach, zwiększając dostępność i przyciągając szerszą publiczność.",
             "tags": [
-              "application",
-              "finance",
-              "argent"
+              "web-site",
+              "nursery",
+              "woocommerce",
+              "wordpress"
             ]
           }
         }
@@ -260,26 +262,30 @@
         ],
         "locales": {
           "en": {
-            "description": "<b>StudHouse Agency</b> is your ultimate photography app, empowering you to capture and edit stunning images effortlessly. With its intuitive interface, Snappy provides a wide range of powerful tools and filters to enhance your photos and bring out your creativity. Whether you're a professional photographer or just a hobbyist, Snappy offers features like manual controls, advanced editing options, and AI-powered enhancements to take your photography to the next level.",
+            "description": "The <b>StudHouse Agency</b> website is an online platform developed for an agency specializing in educational and student-oriented services. Developed using WordPress, the world's most popular content management system, this website serves as the agency's digital business card, showcasing its services and projects.<br>The site has an intuitive navigation structure that allows visitors to easily explore the agency's offerings, including a list of services. The clear, well-organized structure of the website ensures that users can find the information or service they need with a minimum number of clicks.<br>Recognizing the importance of accessibility, the website is fully responsive, which ensures that the site is easy to use on all devices and screen sizes. This approach to design increases user engagement and contributes to the agency's goal of reaching a wide audience of students.<br>StudHouse's website is rich in content, including a detailed description of services, a wide variety of useful student resources, an extensive information database on various specialties, testimonials from satisfied customers, and the latest news from the education sector. Using WordPress makes it easy for the agency to update content regularly, keeping the content up-to-date.<br>The site is optimized for search engines using modern SEO practices to improve visibility and attract more visitors. The strategic use of keywords, meta tags, and optimized content ensures that StudHouse Agency ranks well in search results, driving organic traffic to the site.<br>To foster community engagement, the website includes interactive features such as a blog and social media integration, as well as a digital library with a wide range of resources on various specialties and areas. These elements encourage visitors to interact with the content and communicate with the StudHouse community on various social media platforms.<br>StudHouse's website successfully reflects the essence of the agency's mission to provide student services. Thanks to its thematic design and rich content, the site effectively promotes the agency's services and values while helping to engage the target audience. Using WordPress as the development platform ensures that the site is not only visually appealing, but also reliable, flexible, and easy to manage, making it a powerful tool in the agency's digital marketing strategy.",
             "tags": [
-              "app",
-              "photography",
-              "camera"
+              "student",
+              "agency",
+              "student help",
+              "student services"
             ]
           },
           "ua": {
-            "description": "<b>StudHouse Agency</b> es tu aplicación definitiva de fotografía, que te permite capturar y editar imágenes impresionantes sin esfuerzo. Con su interfaz intuitiva, Snappy ofrece una amplia gama de herramientas y filtros poderosos para mejorar tus fotos y potenciar tu creatividad. Ya seas un fotógrafo profesional o simplemente un aficionado, Snappy ofrece funciones como controles manuales, opciones de edición avanzadas y mejoras impulsadas por inteligencia artificial para llevar tu fotografía al siguiente nivel.",
+            "description": "Вебсайт <b>StudHouse Agency</b> - це онлайн-платформа, розроблена для агентства, що спеціалізується на освітніх та студентських послугах. Розроблений з використанням WordPress, найпопулярнішої у світі системи управління контентом, цей вебсайт слугує цифровою візитною карткою агентства, демонструючи його послуги та проєкти.<br>Сайт має інтуїтивно зрозумілу навігаційну структуру, що дозволяє відвідувачам легко ознайомитися з пропозиціями агентства, включаючи перелік послуг. Чітка, добре організована структура сайту гарантує, що користувачі можуть знайти потрібну їм інформацію або послугу за мінімальну кількість кліків.<br>Визнаючи важливість доступності, вебсайт повністю адаптивний, що гарантує зручність користування сайтом на всіх пристроях і з будь-яким розміром екрана. Такий підхід до дизайну підвищує залученість користувачів і сприяє досягненню мети агентства - охопити широку аудиторію студентів.<br>Сайт StudHouse багатий на контент, включаючи детальний опис послуг, широкий спектр корисних студентських ресурсів, велику інформаційну базу даних про різні спеціальності, відгуки задоволених клієнтів та останні новини освітнього сектору. Використання WordPress полегшує агентству регулярне оновлення контенту, підтримуючи його актуальність.<br> Сайт оптимізовано для пошукових систем з використанням сучасних SEO-практик для покращення видимості та залучення більшої кількості відвідувачів. Стратегічне використання ключових слів, метатегів та оптимізованого контенту гарантує, що StudHouse Agency посідає високі позиції в результатах пошуку, залучаючи органічний трафік на сайт.<br>Щоб сприяти залученню спільноти, вебсайт включає інтерактивні функції, такі як блог та інтеграція з соціальними мережами, а також цифрову бібліотеку з широким спектром ресурсів з різних спеціальностей та сфер. Ці елементи заохочують відвідувачів взаємодіяти з контентом і спілкуватися зі спільнотою StudHouse на різних платформах соціальних мереж.<br>Вебсайт StudHouse вдало відображає суть місії агенції з надання студентських послуг. Завдяки тематичному дизайну та насиченому контенту сайт ефективно просуває послуги та цінності агенції, допомагаючи залучити цільову аудиторію. Використання WordPress як платформи для розробки гарантує, що сайт є не лише візуально привабливим, але й надійним, гнучким та простим в управлінні, що робить його потужним інструментом у стратегії цифрового маркетингу агенції.",
             "tags": [
-              "aplicación",
-              "fotografía",
-              "cámara"
+              "student",
+              "agency",
+              "student help",
+              "student services"
             ]
           },
           "pl": {
-            "description": "<b>StudHouse Agency</b> est votre application ultime de photographie, vous permettant de capturer et d'éditer des images époustouflantes sans effort. Avec son interface intuitive, Snappy propose une large gamme d'outils puissants et de filtres pour améliorer vos photos et stimuler votre créativité. Que vous soyez un photographe professionnel ou simplement un amateur, Snappy offre des fonctionnalités telles que les commandes manuelles, les options d'édition avancées et les améliorations alimentées par l'IA pour pousser votre photographie à un niveau supérieur.",
+            "description": "Strona <b>StudHouse Agency</b> to platforma internetowa stworzona dla agencji specjalizującej się w usługach edukacyjnych i studenckich. Opracowana przy użyciu WordPressa, najpopularniejszego na świecie systemu zarządzania treścią, strona ta służy jako cyfrowa wizytówka agencji, prezentując jej usługi i projekty.<br>Witryna ma intuicyjną strukturę nawigacji, która pozwala odwiedzającym łatwo zapoznać się z ofertą agencji, w tym z listą usług. Przejrzysta, dobrze zorganizowana struktura strony zapewnia, że użytkownicy mogą znaleźć potrzebne informacje lub usługi przy minimalnej liczbie kliknięć.<br>Uznając znaczenie dostępności, strona jest w pełni responsywna, co zapewnia łatwość korzystania z niej na wszystkich urządzeniach i rozmiarach ekranu. Takie podejście do projektowania zwiększa zaangażowanie użytkowników i przyczynia się do realizacji celu agencji, jakim jest dotarcie do szerokiego grona studentów.<br>Witryna StudHouse jest bogata w treści, w tym szczegółowy opis usług, szeroką gamę przydatnych zasobów dla studentów, obszerną bazę informacji na temat różnych specjalizacji, referencje zadowolonych klientów i najnowsze wiadomości z sektora edukacyjnego. Korzystanie z WordPressa ułatwia agencji regularne aktualizowanie treści, dzięki czemu są one zawsze aktualne.<br> Witryna została zoptymalizowana pod kątem wyszukiwarek przy użyciu nowoczesnych praktyk SEO, aby poprawić widoczność i przyciągnąć więcej odwiedzających. Strategiczne wykorzystanie słów kluczowych, meta-tagów i zoptymalizowanych treści zapewnia agencji StudHouse wysoką pozycję w wynikach wyszukiwania, generując organiczny ruch na stronie.<br>Aby zwiększyć zaangażowanie społeczności, strona zawiera interaktywne funkcje, takie jak blog i integracja z mediami społecznościowymi, a także cyfrową bibliotekę z szeroką gamą zasobów dotyczących różnych specjalności i obszarów. Elementy te zachęcają odwiedzających do interakcji z treścią i komunikowania się ze społecznością StudHouse na różnych platformach mediów społecznościowych.<br>Strona internetowa StudHouse z powodzeniem odzwierciedla istotę misji agencji, jaką jest świadczenie usług dla studentów. Dzięki tematycznemu projektowi i bogatej zawartości strona skutecznie promuje usługi i wartości agencji, jednocześnie pomagając zaangażować docelowych odbiorców. Wykorzystanie WordPressa jako platformy programistycznej zapewnia, że strona jest nie tylko atrakcyjna wizualnie, ale także niezawodna, elastyczna i łatwa w zarządzaniu, co czyni ją potężnym narzędziem w cyfrowej strategii marketingowej agencji.",
             "tags": [
-              "application",
-              "photographie"
+              "student",
+              "agency",
+              "student help",
+              "student services"
             ]
           }
         }
