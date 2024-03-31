@@ -148,5 +148,20 @@
         "name": "LinkedIn Learning"
       }
     }
+  },
+  "udemy": {
+    "logoUrl": "images/places/udemy.jpg",
+    "faIcon": "fab fa-udemy",
+    "locales": {
+      "en": {
+        "name": "Udemy"
+      },
+      "ua": {
+        "name": "Udemy"
+      },
+      "pl": {
+        "name": "Udemy"
+      }
+    }
   }
 }

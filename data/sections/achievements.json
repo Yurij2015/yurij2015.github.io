@@ -156,9 +156,9 @@
         }
       },
       {
-        "id": "linkedin_cert",
+        "id": "linkedin_cert_php_db",
         "place": "@link{places.linkedin}",
-        "date": "2018/05",
+        "date": "2018/03",
         "href": "https://www.linkedin.com/learning/certificates/3352dfa46e2262ea359e0c39d71266297c3ae3dd6dcedca3d17872c6293134b4",
         "locales": {
           "en": {
@@ -172,6 +172,26 @@
           "pl": {
             "title": "PHP: Object-Oriented Programming with Databases",
             "description": "Certyfikat LinkedIn Learning \"PHP: Object-Oriented Programming with Databases\" poświadcza zaawansowaną biegłość w korzystaniu z zasad OOP PHP do zarządzania bazami danych, prezentując specjalistyczne umiejętności tworzenia stron internetowych i baz danych."
+          }
+        }
+      },
+      {
+        "id": "linkedin_cert_php",
+        "place": "@link{places.linkedin}",
+        "date": "2018/07",
+        "href": "https://www.linkedin.com/learning/certificates/c3b4ac4a307c2e7f93b352644dfe4bb1a8bcf340bdc69ac93bfa91e064e32e0e",
+        "locales": {
+          "en": {
+            "title": "PHP: Object-Oriented Programming",
+            "description": "The \"PHP: Object-Oriented Programming\" Certificate from LinkedIn Learning validates expertise in implementing PHP's OOP principles, demonstrating specialized skills in structured programming and software design."
+          },
+          "ua": {
+            "title": "PHP: Object-Oriented Programming",
+            "description": "Сертифікат \"PHP: Об'єктноорієнтоване програмування\" від LinkedIn Learning підтверджує знання з реалізації принципів ООП у PHP, демонструючи спеціалізовані навички структурованого програмування та дизайну програмного забезпечення."
+          },
+          "pl": {
+            "title": "PHP: Object-Oriented Programming",
+            "description": "Certyfikat \"PHP: Object Oriented Programming\" od LinkedIn Learning potwierdza znajomość implementacji zasad OOP w PHP, demonstrując specjalistyczne umiejętności w zakresie programowania strukturalnego i projektowania oprogramowania.\n"
           }
         }
       },
@@ -196,22 +216,62 @@
         }
       },
       {
-        "id": "material_cert",
-        "place": "@link{places.websummit}",
-        "date": "2020/06",
-        "href": "https://google.com",
+        "id": "linkedin_cert_laravel",
+        "place": "@link{places.linkedin}",
+        "date": "2021/07",
+        "href": "https://www.linkedin.com/learning/certificates/446501f122b7f6659e430b465e1e764508328207cc2fa9a9426a839db48312e7",
         "locales": {
           "en": {
-            "title": "LinkedIn PHP (Laravel) Certificate",
-            "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+            "title": "Laravel 5 Essential Training",
+            "description": "The \"Laravel 5 Essential Training\" Certificate from LinkedIn Learning verifies proficiency in Laravel 5, covering foundational concepts, application structure, and advanced features. This certification highlights adeptness in leveraging Laravel for web application development."
           },
           "ua": {
-            "title": "LinkedIn PHP (Laravel) Certificate",
-            "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno."
+            "title": "Laravel 5 Essential Training",
+            "description": "Сертифікат \"Laravel 5 Essential Training\" від LinkedIn Learning підтверджує рівень володіння Laravel 5, охоплюючи основні концепції, структуру додатків та розширені можливості. Цей сертифікат підкреслює вміння використовувати Laravel для розробки веб-додатків."
           },
           "pl": {
-            "title": "LinkedIn PHP (Laravel) Certificate",
-            "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes."
+            "title": "Laravel 5 Essential Training",
+            "description": "Certyfikat Laravel 5 Essential Training od LinkedIn Learning potwierdza biegłość w Laravel 5, obejmując podstawowe pojęcia, strukturę aplikacji i zaawansowane funkcje. Certyfikat ten kładzie nacisk na umiejętność wykorzystania Laravel do tworzenia aplikacji internetowych.\n"
+          }
+        }
+      },
+      {
+        "id": "udemy_cert_goo_vue",
+        "place": "@link{places.udemy}",
+        "date": "2021/08",
+        "href": "https://www.udemy.com/certificate/UC-68832aa9-8763-43ad-982f-67947d75c5fa/",
+        "locales": {
+          "en": {
+            "title": "Vue 3 and Golang: A Practical Guide",
+            "description": "The Udemy certification for \"Vue 3 and Golang: A Practical Guide\" confirms comprehensive mastery in building dynamic web applications using Vue 3 for the frontend and Golang for the backend, demonstrating practical skills in full-stack development."
+          },
+          "ua": {
+            "title": "Vue 3 and Golang: A Practical Guide",
+            "description": "Сертифікат Udemy \"Vue 3 та Golang: Практичний посібник\" підтверджує всебічну майстерність у створенні динамічних веб-додатків з використанням Vue 3 для фронтенду та Golang для бекенду, демонструючи практичні навички повностекової розробки.\n"
+          },
+          "pl": {
+            "title": "Vue 3 and Golang: A Practical Guide",
+            "description": "Certyfikat Udemy \"Vue 3 and Golang: A Practical Guide\" potwierdza kompleksową biegłość w tworzeniu dynamicznych aplikacji internetowych przy użyciu Vue 3 dla frontendu i Golang dla backendu, demonstrując praktyczne umiejętności w zakresie programowania full-stack.\n"
+          }
+        }
+      },
+      {
+        "id": "linkedin_cert_laravel_restapi",
+        "place": "@link{places.linkedin}",
+        "date": "2021/08",
+        "href": "https://www.linkedin.com/learning/certificates/1ca98446d26ec9a340c2ae08309850a753e4629b3c4adef202c06a91f5400d15/",
+        "locales": {
+          "en": {
+            "title": "Building RESTful APIs in Laravel",
+            "description": "The \"Building RESTful APIs in Laravel\" Certificate from LinkedIn Learning acknowledges expertise in creating RESTful APIs with Laravel, showcasing skills in developing scalable and maintainable web services for modern web applications."
+          },
+          "ua": {
+            "title": "Building RESTful APIs in Laravel",
+            "description": "Сертифікат \"Створення RESTful API в Laravel\" від LinkedIn Learning підтверджує досвід створення RESTful API за допомогою Laravel, демонструючи навички розробки масштабованих і підтримуваних веб-сервісів для сучасних веб-додатків.\n"
+          },
+          "pl": {
+            "title": "Building RESTful APIs in Laravel",
+            "description": "Certyfikat \"Building RESTful APIs in Laravel\" od LinkedIn Learning potwierdza wiedzę specjalistyczną w zakresie tworzenia interfejsów API RESTful za pomocą Laravel, prezentując umiejętności tworzenia skalowalnych i łatwych w utrzymaniu usług internetowych dla nowoczesnych aplikacji internetowych.\n"
           }
         }
       }
