@@ -76,7 +76,7 @@
   },
   "websummit": {
     "logoUrl": "images/places/websummit_with_text.jpeg",
-    "faIcon": "fab fa-speaker-deck",
+    "faIcon": "fas fa-users",
     "locales": {
       "en": {
         "name": "WebSummit"
@@ -86,6 +86,21 @@
       },
       "pl": {
         "name": "WebSummit"
+      }
+    }
+  },
+  "fabrika-space": {
+    "logoUrl": "images/places/fabrika-space.png",
+    "faIcon": "fas fa-building",
+    "locales": {
+      "en": {
+        "name": "Fabrika Space"
+      },
+      "ua": {
+        "name": "Fabrika Space"
+      },
+      "pl": {
+        "name": "Fabrika Space"
       }
     }
   }

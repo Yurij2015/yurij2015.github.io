@@ -54,82 +54,82 @@
   "items": {
     "events": [
       {
-        "id": "graduation_project",
-        "place": "@link{places.websummit}",
-        "date": "2018/08",
-        "href": null,
+        "id": "think_js",
+        "place": "@link{places.fabrika-space}",
+        "date": "2019/10",
+        "href": "https://www.meetup.com/thinkjs/events/265213322",
         "locales": {
           "en": {
-            "title": "Best Graduation Project",
-            "description": "Outstanding work on graduation project; recognized for innovation and impact."
+            "title": "ThinkJS Kharkiv • Kharkiv, UA",
+            "description": "At the event, participants dove deeper into the relevance of Redux in the current tech landscape, assessing its position in comparison to new technologies such as Context APIs and React Hooks. The discussion was aimed at dispelling misconceptions about Redux and exploring its practical usefulness. In addition, the session covered effective strategies for beginners in Angular, with an emphasis on a structured learning path to overcome the complexities of the framework."
           },
           "ua": {
-            "title": "Mejor Proyecto de Graduación",
-            "description": "Trabajo destacado en proyecto de graduación; reconocido por innovación e impacto."
+            "title": "ThinkJS Kharkiv • Kharkiv, UA",
+            "description": "На заході учасники заглибилися в актуальність Redux у сучасному технологічному ландшафті, оцінивши його позицію у порівнянні з новими технологіями, такими як Context API та React Hooks. Дискусія була спрямована на розвіювання хибних уявлень про Redux та вивчення його практичної користі. Крім того, сесія охопила ефективні стратегії для початківців в Angular, з акцентом на структурований шлях навчання для подолання складнощів фреймворку."
           },
           "pl": {
-            "title": "Meilleur Projet de Fin d'Études",
-            "description": "Travail exceptionnel sur le projet de fin d'études; reconnu pour l'innovation et l'impact."
+            "title": "ThinkJS Kharkiv • Kharkiv, UA",
+            "description": "Podczas wydarzenia uczestnicy zagłębili się w znaczenie Redux we współczesnym krajobrazie technologicznym, oceniając jego pozycję w porównaniu z nowymi technologiami, takimi jak Context API i React Hooks. Dyskusja miała na celu rozwianie błędnych przekonań na temat Redux i zbadanie jego praktycznych korzyści. Ponadto sesja obejmowała skuteczne strategie dla początkujących w Angular, z naciskiem na ustrukturyzowaną ścieżkę uczenia się, aby przezwyciężyć złożoność frameworka.."
           }
         }
       },
       {
-        "id": "alumni_hackaton",
-        "place": "@link{places.websummit}",
-        "date": "2019/09",
-        "href": "https://harvard.com",
+        "id": "kharkiv_wordpress",
+        "place": "@link{places.fabrika-space}",
+        "date": "2019/10",
+        "href": "https://www.meetup.com/kharkiv-wordpress/events/265215967",
         "locales": {
           "en": {
-            "title": "2nd Place – Alumni UX Hackathon",
-            "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
+            "title": "Kharkiv WordPress • Kharkiv, UA",
+            "description": "The event covered the stages of the WordPress project lifecycle (and beyond), aiming to cover everything, or at least as much as possible. This comprehensive review provided valuable insight into every phase of a project, from conception to completion, providing a holistic understanding of management and development in the WordPress ecosystem"
           },
           "ua": {
-            "title": "2do Lugar - Hackathon Alumni de UX",
-            "description": "Obtuvo el 2do lugar en el Hackathon Alumni de UX de Harvard; demostró solución creativa de problemas."
+            "title": "Kharkiv WordPress • Kharkiv, UA",
+            "description": "Захід охоплював етапи життєвого циклу проєкту WordPress (і не тільки), прагнучи охопити все, або принаймні якомога більше. Цей всебічний огляд надав цінну інформацію про кожну фазу проєкту, від задуму до завершення, забезпечуючи цілісне розуміння управління та розвитку в екосистемі WordPress."
           },
           "pl": {
-            "title": "2e Place - Hackathon UX des Anciens",
-            "description": "Obtenu la 2e place au hackathon UX des anciens de Harvard; démontré la résolution créative de problèmes."
+            "title": "Kharkiv WordPress • Kharkiv, UA",
+            "description": "Wydarzenie obejmowało etapy cyklu życia projektu WordPress (i nie tylko), starając się objąć wszystko, a przynajmniej jak najwięcej. Ten kompleksowy przegląd zapewnił cenny wgląd w każdą fazę projektu, od koncepcji do zakończenia, zapewniając holistyczne zrozumienie zarządzania i rozwoju w ekosystemie WordPress."
           }
         }
       },
       {
-        "id": "adobe_jam",
-        "place": "@link{places.websummit}",
-        "date": "2020/11",
-        "href": null,
+        "id": "think_php",
+        "place": "@link{places.fabrika-space}",
+        "date": "2019/10",
+        "href": "https://www.meetup.com/thinkphp/events/265213588",
         "locales": {
           "en": {
-            "title": "1st Place – Adobe Creative Jam",
-            "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration."
+            "title": "ThinkPHP Kharkiv • Kharkiv, UA",
+            "description": "The event highlighted key issues including SEO challenges for SPAs, managing Redis and Elasticsearch under heavy loads, customer concerns, using modern performance measurement tools, real-case optimization, and the importance of updated dependencies. It also delved into building scalable data pipelines, covering scalability, durability, bottlenecks, and real-time monitoring."
           },
           "ua": {
-            "title": "1er Lugar - Adobe Creative Jam",
-            "description": "Obtuvo el 1er lugar en Adobe Creative Jam; mostró excelencia en diseño y colaboración."
+            "title": "ThinkPHP Kharkiv • Kharkiv, UA",
+            "description": "На заході були висвітлені такі ключові питання, як виклики SEO для SPA, управління Redis та Elasticsearch в умовах високих навантажень, проблеми клієнтів, використання сучасних інструментів вимірювання продуктивності, оптимізація в реальних умовах та важливість оновлених залежностей. Учасники також заглибилися в побудову масштабованих конвеєрів даних, охоплюючи масштабованість, довговічність, вузькі місця та моніторинг у режимі реального часу."
           },
           "pl": {
-            "title": "1ère Place - Adobe Creative Jam",
-            "description": "Obtenu la 1ère place à Adobe Creative Jam; mis en avant l'excellence en design et la collaboration."
+            "title": "ThinkPHP Kharkiv • Kharkiv, UA",
+            "description": "Wydarzenie obejmowało takie kluczowe zagadnienia jak wyzwania SEO dla SPA, zarządzanie Redis i Elasticsearch przy dużych obciążeniach, kwestie związane z klientami, korzystanie z nowoczesnych narzędzi do pomiaru wydajności, optymalizacja w rzeczywistych warunkach oraz znaczenie zaktualizowanych zależności. Uczestnicy zagłębili się również w budowanie skalowalnych potoków danych, obejmujących skalowalność, trwałość, wąskie gardła i monitorowanie w czasie rzeczywistym."
           }
         }
       },
       {
-        "id": "article_mention",
+        "id": "websummit",
         "place": "@link{places.websummit}",
-        "date": "2023/03",
-        "href": "https://forbes.com",
+        "date": "2023/11",
+        "href": "https://websummit.com/schedule/",
         "locales": {
           "en": {
-            "title": "Article Mention – UX Contribution",
-            "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights."
+            "title": "WebSummit – Lisbon, PT",
+            "description": "Web Summit is renowned for hosting the world's premier technology events, uniting individuals and ideas poised to revolutionize our world. Participating in this event provided me with invaluable insights into the latest technology trends and emerging directions in startup development. Moreover, it significantly broadened my professional network, connecting me with like-minded peers and industry leaders."
           },
           "ua": {
-            "title": "Mención en Artículo - Contribución a UX",
-            "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes."
+            "title": "WebSummit – Lisbon, PT",
+            "description": "Web Summit відомий тим, що проводить провідні світові технологічні події, об'єднуючи людей та ідеї, які готові революціонізувати наш світ. Участь у цьому заході дала мені безцінну інформацію про останні технологічні тенденції та нові напрямки розвитку стартапів. Крім того, вона значно розширила мою професійну мережу, зв'язавши мене з колегами-однодумцями та лідерами індустрії."
           },
           "pl": {
-            "title": "Mention d'Article - Contribution UX",
-            "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes."
+            "title": "WebSummit – Lisbon, PT",
+            "description": "Web Summit jest znany z organizacji wiodących na świecie wydarzeń technologicznych, gromadzących ludzi i pomysły, które są gotowe zrewolucjonizować nasz świat. Udział w tym wydarzeniu dostarczył mi bezcennych informacji na temat najnowszych trendów technologicznych i nowych kierunków dla startupów. Znacząco poszerzył również moją sieć zawodową, łącząc mnie z podobnie myślącymi kolegami i liderami branży.."
           }
         }
       }

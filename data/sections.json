@@ -60,7 +60,7 @@
       "categoryId": "showcase",
       "component": "ThreadsSection",
       "jsonPath": "data/sections/achievements.json",
-      "faIcon": "fa-solid fa-award"
+      "faIcon": "fa-solid fa-lightbulb"
     },
     {
       "id": "hobbies",
