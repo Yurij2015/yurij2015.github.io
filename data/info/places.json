@@ -133,5 +133,20 @@
         "name": "A-Level Poltava"
       }
     }
+  },
+  "linkedin": {
+    "logoUrl": "images/places/linkedin-logo.jpeg",
+    "faIcon": "fab fa-linkedin-in",
+    "locales": {
+      "en": {
+        "name": "LinkedIn Learning"
+      },
+      "ua": {
+        "name": "LinkedIn Learning"
+      },
+      "pl": {
+        "name": "LinkedIn Learning"
+      }
+    }
   }
 }

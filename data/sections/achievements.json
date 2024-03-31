@@ -156,6 +156,26 @@
         }
       },
       {
+        "id": "linkedin_cert",
+        "place": "@link{places.linkedin}",
+        "date": "2018/05",
+        "href": "https://www.linkedin.com/learning/certificates/3352dfa46e2262ea359e0c39d71266297c3ae3dd6dcedca3d17872c6293134b4",
+        "locales": {
+          "en": {
+            "title": "PHP: Object-Oriented Programming with Databases",
+            "description": "The LinkedIn Learning \"PHP: Object-Oriented Programming with Databases\" Certificate certifies advanced proficiency in using PHP's OOP principles for database management, showcasing specialized web development and database skills."
+          },
+          "ua": {
+            "title": "PHP: Object-Oriented Programming with Databases",
+            "description": "Сертифікат LinkedIn Learning \"PHP: Об'єктно-орієнтоване програмування з базами даних\" засвідчує просунутий рівень володіння принципами ООП PHP для управління базами даних, демонструючи спеціалізовані навички веб-розробки та роботи з базами даних."
+          },
+          "pl": {
+            "title": "PHP: Object-Oriented Programming with Databases",
+            "description": "Certyfikat LinkedIn Learning \"PHP: Object-Oriented Programming with Databases\" poświadcza zaawansowaną biegłość w korzystaniu z zasad OOP PHP do zarządzania bazami danych, prezentując specjalistyczne umiejętności tworzenia stron internetowych i baz danych."
+          }
+        }
+      },
+      {
         "id": "a_level_cert",
         "place": "@link{places.a-level}",
         "date": "2019/05",
