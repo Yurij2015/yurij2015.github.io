@@ -103,5 +103,35 @@
         "name": "Fabrika Space"
       }
     }
+  },
+  "soft-group": {
+    "logoUrl": "images/places/logo-softgroup.png",
+    "faIcon": "fas fa-code",
+    "locales": {
+      "en": {
+        "name": "SoftGroup"
+      },
+      "ua": {
+        "name": "SoftGroup"
+      },
+      "pl": {
+        "name": "SoftGroup"
+      }
+    }
+  },
+  "a-level": {
+    "logoUrl": "images/places/a_level_ukraine_logo.jpeg",
+    "faIcon": "fas fa-laptop-code",
+    "locales": {
+      "en": {
+        "name": "A-Level Poltava"
+      },
+      "ua": {
+        "name": "A-Level Poltava"
+      },
+      "pl": {
+        "name": "A-Level Poltava"
+      }
+    }
   }
 }

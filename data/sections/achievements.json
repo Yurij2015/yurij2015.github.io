@@ -136,42 +136,42 @@
     ],
     "certifications": [
       {
-        "id": "google_cert",
-        "place": "@link{places.websummit}",
-        "date": "2018/08",
-        "href": "https://google.com",
+        "id": "soft_group_cert",
+        "place": "@link{places.soft-group}",
+        "date": "2017/05",
+        "href": null,
         "locales": {
           "en": {
-            "title": "SoffGroup WorpPress Certificate",
-            "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+            "title": "SoftGroup WordPress Certificate",
+            "description": "The SoftGroup WordPress certificate confirms the successful completion of the WordPress course offered by SoftGroup. This course provided comprehensive training in key WordPress features, including theme creation, plugin development, and website optimization."
           },
           "ua": {
-            "title": "Certificación de Diseño UX de Google",
-            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario."
+            "title": "SoftGroup WordPress Certificate",
+            "description": "Сертифікат SoftGroup WordPress підтверджує успішне завершення курсу WordPress від SoftGroup. Цей курс передбачав комплексне навчання ключовим функціям WordPress, включаючи створення тем, розробку плагінів та оптимізацію веб-сайтів."
           },
           "pl": {
-            "title": "Certification Google UX Design",
-            "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur."
+            "title": "SoftGroup WordPress Certificate",
+            "description": "Certyfikat SoftGroup WordPress potwierdza pomyślne ukończenie kursu WordPress oferowanego przez SoftGroup. Kurs ten zapewnił kompleksowe szkolenie w zakresie kluczowych funkcji WordPress, w tym tworzenia motywów, tworzenia wtyczek i optymalizacji witryn internetowych."
           }
         }
       },
       {
-        "id": "ui_nanodegree",
-        "place": "@link{places.websummit}",
-        "date": "2019/04",
-        "href": "https://udemy.com",
+        "id": "a_level_cert",
+        "place": "@link{places.a-level}",
+        "date": "2019/05",
+        "href": null,
         "locales": {
           "en": {
             "title": "Alevel PHP (Yii2) Certificate",
-            "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+            "description": "The Alevel PHP (Yii2) Certificate verifies expertise in utilizing the Yii2 PHP framework, demonstrating a comprehensive understanding and skillful application of this powerful web development tool"
           },
           "ua": {
-            "title": "Nanogrado en UI/UX",
-            "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas."
+            "title": "Alevel PHP (Yii2) Certificate",
+            "description": "Сертифікат Alevel PHP (Yii2) підтверджує досвід використання фреймворку Yii2 PHP, демонструючи всебічне розуміння та вміле застосування цього інструменту веб-розробки."
           },
           "pl": {
-            "title": "Nanodiplôme UI/UX",
-            "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques."
+            "title": "Alevel PHP (Yii2) Certificate",
+            "description": "Certyfikat Alevel PHP (Yii2) potwierdza doświadczenie w korzystaniu z frameworka Yii2 PHP, demonstrując kompleksowe zrozumienie i umiejętne zastosowanie tego narzędzia do tworzenia stron internetowych."
           }
         }
       },
@@ -182,15 +182,15 @@
         "href": "https://google.com",
         "locales": {
           "en": {
-            "title": "LinkekIn PHP (Laravel) Certificate",
+            "title": "LinkedIn PHP (Laravel) Certificate",
             "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
           },
           "ua": {
-            "title": "Certificación de Material Design",
+            "title": "LinkedIn PHP (Laravel) Certificate",
             "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno."
           },
           "pl": {
-            "title": "Certification Material Design",
+            "title": "LinkedIn PHP (Laravel) Certificate",
             "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes."
           }
         }
