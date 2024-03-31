@@ -1,33 +1,33 @@
 {
   "locales": {
     "en": {
-      "title": "Career <span class='text-primary'>Achievements</span>",
-      "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
+      "title": "Events and <span class='text-primary'>Certificates</span>",
+      "description": "My path as a PHP developer is characterized by constant development and self-improvement. Along the way, I attended various online and offline events, as well as received certificates of participation and completion of training programs:"
     },
-    "es": {
-      "title": "Logros <span class='text-primary'>Profesionales</span>",
-      "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:"
+    "ua": {
+      "title": "Заходи та <span class='text-primary'>сертифікати</span>",
+      "description": "Мій шлях PHP-розробника характеризується постійним розвитком та самовдосконаленням. На цьому шляху я відвідував різні онлайн і офлайн заходи, а також отримував сертифікати про участь і проходження навчальних програм:"
     },
-    "fr": {
-      "title": "Réalisations <span class='text-primary'>Professionnelles</span>",
-      "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:"
+    "pl": {
+      "title": "Wydarzenia i <span class='text-primary'>certyfikaty</span>",
+      "description": "Moja ścieżka jako programisty PHP charakteryzuje się ciągłym rozwojem i samodoskonaleniem. Po drodze uczestniczyłem w różnych wydarzeniach online i offline, a także otrzymałem certyfikaty uczestnictwa i ukończenia programów szkoleniowych:"
     }
   },
   "subcategories": [
     {
       "id": "events",
-      "faIcon": "fa-solid fa-trophy",
+      "faIcon": "fab fa-meetup",
       "locales": {
         "en": {
           "title": "Events",
           "buttonLabel": "More Info"
         },
-        "es": {
-          "title": "Premios",
+        "ua": {
+          "title": "Заходи",
           "buttonLabel": "Más Información"
         },
         "pl": {
-          "title": "Prix",
+          "title": "Wydarzenia",
           "buttonLabel": "Plus d'Infos"
         }
       }
@@ -37,15 +37,15 @@
       "faIcon": "fa-solid fa-award",
       "locales": {
         "en": {
-          "title": "Certifications",
+          "title": "Certificates",
           "buttonLabel": "View Certification"
         },
         "ua": {
-          "title": "Certificaciones",
+          "title": "Сертифікати",
           "buttonLabel": "Ver Certificación"
         },
         "pl": {
-          "title": "Certifications",
+          "title": "Certyfikaty",
           "buttonLabel": "Voir la Certification"
         }
       }
@@ -54,144 +54,224 @@
   "items": {
     "events": [
       {
-        "id": "graduation_project",
-        "place": "@link{places.websummit}",
-        "date": "2018/08",
-        "href": null,
+        "id": "think_js",
+        "place": "@link{places.fabrika-space}",
+        "date": "2019/10",
+        "href": "https://www.meetup.com/thinkjs/events/265213322",
         "locales": {
           "en": {
-            "title": "Best Graduation Project",
-            "description": "Outstanding work on graduation project; recognized for innovation and impact."
+            "title": "ThinkJS Kharkiv • Kharkiv, UA",
+            "description": "At the event, participants dove deeper into the relevance of Redux in the current tech landscape, assessing its position in comparison to new technologies such as Context APIs and React Hooks. The discussion was aimed at dispelling misconceptions about Redux and exploring its practical usefulness. In addition, the session covered effective strategies for beginners in Angular, with an emphasis on a structured learning path to overcome the complexities of the framework."
           },
           "ua": {
-            "title": "Mejor Proyecto de Graduación",
-            "description": "Trabajo destacado en proyecto de graduación; reconocido por innovación e impacto."
+            "title": "ThinkJS Kharkiv • Kharkiv, UA",
+            "description": "На заході учасники заглибилися в актуальність Redux у сучасному технологічному ландшафті, оцінивши його позицію у порівнянні з новими технологіями, такими як Context API та React Hooks. Дискусія була спрямована на розвіювання хибних уявлень про Redux та вивчення його практичної користі. Крім того, сесія охопила ефективні стратегії для початківців в Angular, з акцентом на структурований шлях навчання для подолання складнощів фреймворку."
           },
           "pl": {
-            "title": "Meilleur Projet de Fin d'Études",
-            "description": "Travail exceptionnel sur le projet de fin d'études; reconnu pour l'innovation et l'impact."
+            "title": "ThinkJS Kharkiv • Kharkiv, UA",
+            "description": "Podczas wydarzenia uczestnicy zagłębili się w znaczenie Redux we współczesnym krajobrazie technologicznym, oceniając jego pozycję w porównaniu z nowymi technologiami, takimi jak Context API i React Hooks. Dyskusja miała na celu rozwianie błędnych przekonań na temat Redux i zbadanie jego praktycznych korzyści. Ponadto sesja obejmowała skuteczne strategie dla początkujących w Angular, z naciskiem na ustrukturyzowaną ścieżkę uczenia się, aby przezwyciężyć złożoność frameworka.."
           }
         }
       },
       {
-        "id": "alumni_hackaton",
-        "place": "@link{places.websummit}",
-        "date": "2019/09",
-        "href": "https://harvard.com",
+        "id": "kharkiv_wordpress",
+        "place": "@link{places.fabrika-space}",
+        "date": "2019/10",
+        "href": "https://www.meetup.com/kharkiv-wordpress/events/265215967",
         "locales": {
           "en": {
-            "title": "2nd Place – Alumni UX Hackathon",
-            "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
+            "title": "Kharkiv WordPress • Kharkiv, UA",
+            "description": "The event covered the stages of the WordPress project lifecycle (and beyond), aiming to cover everything, or at least as much as possible. This comprehensive review provided valuable insight into every phase of a project, from conception to completion, providing a holistic understanding of management and development in the WordPress ecosystem"
           },
           "ua": {
-            "title": "2do Lugar - Hackathon Alumni de UX",
-            "description": "Obtuvo el 2do lugar en el Hackathon Alumni de UX de Harvard; demostró solución creativa de problemas."
+            "title": "Kharkiv WordPress • Kharkiv, UA",
+            "description": "Захід охоплював етапи життєвого циклу проєкту WordPress (і не тільки), прагнучи охопити все, або принаймні якомога більше. Цей всебічний огляд надав цінну інформацію про кожну фазу проєкту, від задуму до завершення, забезпечуючи цілісне розуміння управління та розвитку в екосистемі WordPress."
           },
           "pl": {
-            "title": "2e Place - Hackathon UX des Anciens",
-            "description": "Obtenu la 2e place au hackathon UX des anciens de Harvard; démontré la résolution créative de problèmes."
+            "title": "Kharkiv WordPress • Kharkiv, UA",
+            "description": "Wydarzenie obejmowało etapy cyklu życia projektu WordPress (i nie tylko), starając się objąć wszystko, a przynajmniej jak najwięcej. Ten kompleksowy przegląd zapewnił cenny wgląd w każdą fazę projektu, od koncepcji do zakończenia, zapewniając holistyczne zrozumienie zarządzania i rozwoju w ekosystemie WordPress."
           }
         }
       },
       {
-        "id": "adobe_jam",
-        "place": "@link{places.websummit}",
-        "date": "2020/11",
-        "href": null,
+        "id": "think_php",
+        "place": "@link{places.fabrika-space}",
+        "date": "2019/10",
+        "href": "https://www.meetup.com/thinkphp/events/265213588",
         "locales": {
           "en": {
-            "title": "1st Place – Adobe Creative Jam",
-            "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration."
+            "title": "ThinkPHP Kharkiv • Kharkiv, UA",
+            "description": "The event highlighted key issues including SEO challenges for SPAs, managing Redis and Elasticsearch under heavy loads, customer concerns, using modern performance measurement tools, real-case optimization, and the importance of updated dependencies. It also delved into building scalable data pipelines, covering scalability, durability, bottlenecks, and real-time monitoring."
           },
           "ua": {
-            "title": "1er Lugar - Adobe Creative Jam",
-            "description": "Obtuvo el 1er lugar en Adobe Creative Jam; mostró excelencia en diseño y colaboración."
+            "title": "ThinkPHP Kharkiv • Kharkiv, UA",
+            "description": "На заході були висвітлені такі ключові питання, як виклики SEO для SPA, управління Redis та Elasticsearch в умовах високих навантажень, проблеми клієнтів, використання сучасних інструментів вимірювання продуктивності, оптимізація в реальних умовах та важливість оновлених залежностей. Учасники також заглибилися в побудову масштабованих конвеєрів даних, охоплюючи масштабованість, довговічність, вузькі місця та моніторинг у режимі реального часу."
           },
           "pl": {
-            "title": "1ère Place - Adobe Creative Jam",
-            "description": "Obtenu la 1ère place à Adobe Creative Jam; mis en avant l'excellence en design et la collaboration."
+            "title": "ThinkPHP Kharkiv • Kharkiv, UA",
+            "description": "Wydarzenie obejmowało takie kluczowe zagadnienia jak wyzwania SEO dla SPA, zarządzanie Redis i Elasticsearch przy dużych obciążeniach, kwestie związane z klientami, korzystanie z nowoczesnych narzędzi do pomiaru wydajności, optymalizacja w rzeczywistych warunkach oraz znaczenie zaktualizowanych zależności. Uczestnicy zagłębili się również w budowanie skalowalnych potoków danych, obejmujących skalowalność, trwałość, wąskie gardła i monitorowanie w czasie rzeczywistym."
           }
         }
       },
       {
-        "id": "article_mention",
+        "id": "websummit",
         "place": "@link{places.websummit}",
-        "date": "2023/03",
-        "href": "https://forbes.com",
+        "date": "2023/11",
+        "href": "https://websummit.com/schedule/",
         "locales": {
           "en": {
-            "title": "Article Mention – UX Contribution",
-            "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights."
+            "title": "WebSummit – Lisbon, PT",
+            "description": "Web Summit is renowned for hosting the world's premier technology events, uniting individuals and ideas poised to revolutionize our world. Participating in this event provided me with invaluable insights into the latest technology trends and emerging directions in startup development. Moreover, it significantly broadened my professional network, connecting me with like-minded peers and industry leaders."
           },
           "ua": {
-            "title": "Mención en Artículo - Contribución a UX",
-            "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes."
+            "title": "WebSummit – Lisbon, PT",
+            "description": "Web Summit відомий тим, що проводить провідні світові технологічні події, об'єднуючи людей та ідеї, які готові революціонізувати наш світ. Участь у цьому заході дала мені безцінну інформацію про останні технологічні тенденції та нові напрямки розвитку стартапів. Крім того, вона значно розширила мою професійну мережу, зв'язавши мене з колегами-однодумцями та лідерами індустрії."
           },
           "pl": {
-            "title": "Mention d'Article - Contribution UX",
-            "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes."
+            "title": "WebSummit – Lisbon, PT",
+            "description": "Web Summit jest znany z organizacji wiodących na świecie wydarzeń technologicznych, gromadzących ludzi i pomysły, które są gotowe zrewolucjonizować nasz świat. Udział w tym wydarzeniu dostarczył mi bezcennych informacji na temat najnowszych trendów technologicznych i nowych kierunków dla startupów. Znacząco poszerzył również moją sieć zawodową, łącząc mnie z podobnie myślącymi kolegami i liderami branży.."
           }
         }
       }
     ],
     "certifications": [
       {
-        "id": "google_cert",
-        "place": "@link{places.websummit}",
-        "date": "2018/08",
-        "href": "https://google.com",
+        "id": "soft_group_cert",
+        "place": "@link{places.soft-group}",
+        "date": "2017/05",
+        "href": null,
         "locales": {
           "en": {
-            "title": "SoffGroup WorpPress Certificate",
-            "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+            "title": "SoftGroup WordPress Certificate",
+            "description": "The SoftGroup WordPress certificate confirms the successful completion of the WordPress course offered by SoftGroup. This course provided comprehensive training in key WordPress features, including theme creation, plugin development, and website optimization."
           },
           "ua": {
-            "title": "Certificación de Diseño UX de Google",
-            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario."
+            "title": "SoftGroup WordPress Certificate",
+            "description": "Сертифікат SoftGroup WordPress підтверджує успішне завершення курсу WordPress від SoftGroup. Цей курс передбачав комплексне навчання ключовим функціям WordPress, включаючи створення тем, розробку плагінів та оптимізацію веб-сайтів."
           },
           "pl": {
-            "title": "Certification Google UX Design",
-            "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur."
+            "title": "SoftGroup WordPress Certificate",
+            "description": "Certyfikat SoftGroup WordPress potwierdza pomyślne ukończenie kursu WordPress oferowanego przez SoftGroup. Kurs ten zapewnił kompleksowe szkolenie w zakresie kluczowych funkcji WordPress, w tym tworzenia motywów, tworzenia wtyczek i optymalizacji witryn internetowych."
           }
         }
       },
       {
-        "id": "ui_nanodegree",
-        "place": "@link{places.websummit}",
-        "date": "2019/04",
-        "href": "https://udemy.com",
+        "id": "linkedin_cert_php_db",
+        "place": "@link{places.linkedin}",
+        "date": "2018/03",
+        "href": "https://www.linkedin.com/learning/certificates/3352dfa46e2262ea359e0c39d71266297c3ae3dd6dcedca3d17872c6293134b4",
+        "locales": {
+          "en": {
+            "title": "PHP: Object-Oriented Programming with Databases",
+            "description": "The LinkedIn Learning \"PHP: Object-Oriented Programming with Databases\" Certificate certifies advanced proficiency in using PHP's OOP principles for database management, showcasing specialized web development and database skills."
+          },
+          "ua": {
+            "title": "PHP: Object-Oriented Programming with Databases",
+            "description": "Сертифікат LinkedIn Learning \"PHP: Об'єктно-орієнтоване програмування з базами даних\" засвідчує просунутий рівень володіння принципами ООП PHP для управління базами даних, демонструючи спеціалізовані навички веб-розробки та роботи з базами даних."
+          },
+          "pl": {
+            "title": "PHP: Object-Oriented Programming with Databases",
+            "description": "Certyfikat LinkedIn Learning \"PHP: Object-Oriented Programming with Databases\" poświadcza zaawansowaną biegłość w korzystaniu z zasad OOP PHP do zarządzania bazami danych, prezentując specjalistyczne umiejętności tworzenia stron internetowych i baz danych."
+          }
+        }
+      },
+      {
+        "id": "linkedin_cert_php",
+        "place": "@link{places.linkedin}",
+        "date": "2018/07",
+        "href": "https://www.linkedin.com/learning/certificates/c3b4ac4a307c2e7f93b352644dfe4bb1a8bcf340bdc69ac93bfa91e064e32e0e",
+        "locales": {
+          "en": {
+            "title": "PHP: Object-Oriented Programming",
+            "description": "The \"PHP: Object-Oriented Programming\" Certificate from LinkedIn Learning validates expertise in implementing PHP's OOP principles, demonstrating specialized skills in structured programming and software design."
+          },
+          "ua": {
+            "title": "PHP: Object-Oriented Programming",
+            "description": "Сертифікат \"PHP: Об'єктноорієнтоване програмування\" від LinkedIn Learning підтверджує знання з реалізації принципів ООП у PHP, демонструючи спеціалізовані навички структурованого програмування та дизайну програмного забезпечення."
+          },
+          "pl": {
+            "title": "PHP: Object-Oriented Programming",
+            "description": "Certyfikat \"PHP: Object Oriented Programming\" od LinkedIn Learning potwierdza znajomość implementacji zasad OOP w PHP, demonstrując specjalistyczne umiejętności w zakresie programowania strukturalnego i projektowania oprogramowania.\n"
+          }
+        }
+      },
+      {
+        "id": "a_level_cert",
+        "place": "@link{places.a-level}",
+        "date": "2019/05",
+        "href": null,
         "locales": {
           "en": {
             "title": "Alevel PHP (Yii2) Certificate",
-            "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+            "description": "The Alevel PHP (Yii2) Certificate verifies expertise in utilizing the Yii2 PHP framework, demonstrating a comprehensive understanding and skillful application of this powerful web development tool"
           },
           "ua": {
-            "title": "Nanogrado en UI/UX",
-            "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas."
+            "title": "Alevel PHP (Yii2) Certificate",
+            "description": "Сертифікат Alevel PHP (Yii2) підтверджує досвід використання фреймворку Yii2 PHP, демонструючи всебічне розуміння та вміле застосування цього інструменту веб-розробки."
           },
           "pl": {
-            "title": "Nanodiplôme UI/UX",
-            "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques."
+            "title": "Alevel PHP (Yii2) Certificate",
+            "description": "Certyfikat Alevel PHP (Yii2) potwierdza doświadczenie w korzystaniu z frameworka Yii2 PHP, demonstrując kompleksowe zrozumienie i umiejętne zastosowanie tego narzędzia do tworzenia stron internetowych."
           }
         }
       },
       {
-        "id": "material_cert",
-        "place": "@link{places.websummit}",
-        "date": "2020/06",
-        "href": "https://google.com",
+        "id": "linkedin_cert_laravel",
+        "place": "@link{places.linkedin}",
+        "date": "2021/07",
+        "href": "https://www.linkedin.com/learning/certificates/446501f122b7f6659e430b465e1e764508328207cc2fa9a9426a839db48312e7",
         "locales": {
           "en": {
-            "title": "LinkekIn PHP (Laravel) Certificate",
-            "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+            "title": "Laravel 5 Essential Training",
+            "description": "The \"Laravel 5 Essential Training\" Certificate from LinkedIn Learning verifies proficiency in Laravel 5, covering foundational concepts, application structure, and advanced features. This certification highlights adeptness in leveraging Laravel for web application development."
           },
           "ua": {
-            "title": "Certificación de Material Design",
-            "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno."
+            "title": "Laravel 5 Essential Training",
+            "description": "Сертифікат \"Laravel 5 Essential Training\" від LinkedIn Learning підтверджує рівень володіння Laravel 5, охоплюючи основні концепції, структуру додатків та розширені можливості. Цей сертифікат підкреслює вміння використовувати Laravel для розробки веб-додатків."
           },
           "pl": {
-            "title": "Certification Material Design",
-            "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes."
+            "title": "Laravel 5 Essential Training",
+            "description": "Certyfikat Laravel 5 Essential Training od LinkedIn Learning potwierdza biegłość w Laravel 5, obejmując podstawowe pojęcia, strukturę aplikacji i zaawansowane funkcje. Certyfikat ten kładzie nacisk na umiejętność wykorzystania Laravel do tworzenia aplikacji internetowych.\n"
+          }
+        }
+      },
+      {
+        "id": "udemy_cert_goo_vue",
+        "place": "@link{places.udemy}",
+        "date": "2021/08",
+        "href": "https://www.udemy.com/certificate/UC-68832aa9-8763-43ad-982f-67947d75c5fa/",
+        "locales": {
+          "en": {
+            "title": "Vue 3 and Golang: A Practical Guide",
+            "description": "The Udemy certification for \"Vue 3 and Golang: A Practical Guide\" confirms comprehensive mastery in building dynamic web applications using Vue 3 for the frontend and Golang for the backend, demonstrating practical skills in full-stack development."
+          },
+          "ua": {
+            "title": "Vue 3 and Golang: A Practical Guide",
+            "description": "Сертифікат Udemy \"Vue 3 та Golang: Практичний посібник\" підтверджує всебічну майстерність у створенні динамічних веб-додатків з використанням Vue 3 для фронтенду та Golang для бекенду, демонструючи практичні навички повностекової розробки.\n"
+          },
+          "pl": {
+            "title": "Vue 3 and Golang: A Practical Guide",
+            "description": "Certyfikat Udemy \"Vue 3 and Golang: A Practical Guide\" potwierdza kompleksową biegłość w tworzeniu dynamicznych aplikacji internetowych przy użyciu Vue 3 dla frontendu i Golang dla backendu, demonstrując praktyczne umiejętności w zakresie programowania full-stack.\n"
+          }
+        }
+      },
+      {
+        "id": "linkedin_cert_laravel_restapi",
+        "place": "@link{places.linkedin}",
+        "date": "2021/08",
+        "href": "https://www.linkedin.com/learning/certificates/1ca98446d26ec9a340c2ae08309850a753e4629b3c4adef202c06a91f5400d15/",
+        "locales": {
+          "en": {
+            "title": "Building RESTful APIs in Laravel",
+            "description": "The \"Building RESTful APIs in Laravel\" Certificate from LinkedIn Learning acknowledges expertise in creating RESTful APIs with Laravel, showcasing skills in developing scalable and maintainable web services for modern web applications."
+          },
+          "ua": {
+            "title": "Building RESTful APIs in Laravel",
+            "description": "Сертифікат \"Створення RESTful API в Laravel\" від LinkedIn Learning підтверджує досвід створення RESTful API за допомогою Laravel, демонструючи навички розробки масштабованих і підтримуваних веб-сервісів для сучасних веб-додатків.\n"
+          },
+          "pl": {
+            "title": "Building RESTful APIs in Laravel",
+            "description": "Certyfikat \"Building RESTful APIs in Laravel\" od LinkedIn Learning potwierdza wiedzę specjalistyczną w zakresie tworzenia interfejsów API RESTful za pomocą Laravel, prezentując umiejętności tworzenia skalowalnych i łatwych w utrzymaniu usług internetowych dla nowoczesnych aplikacji internetowych.\n"
           }
         }
       }
